@@ -119,7 +119,7 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
 twitterHashTag: "apidaysmad17"
-twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"
+twitterFeed: "http://tweetledee.cloudappi.net/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizadores"
