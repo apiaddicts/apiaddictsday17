@@ -76,10 +76,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "asistentes", detail: "de todos los perfiles"}
- - {count: "10", specialCharacter: "+", info: "horas", detail: "hablando de API's"}
- - {count: "9", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
- - {count: "2", specialCharacter: "", info: "tracks simultáneos", detail: "Taller / Charla"}
+ - {count: "200", specialCharacter: "+", info: "asistentes", detail: "registrados"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
+ - {count: "18", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
+ - {count: "2", specialCharacter: "", info: "tracks", detail: "Taller / Charla"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
