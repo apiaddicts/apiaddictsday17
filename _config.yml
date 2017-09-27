@@ -118,8 +118,8 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "apidaysmad17"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "javascript"
+twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"
 
 # Partners Block
 organizersTitle: "Organizadores"

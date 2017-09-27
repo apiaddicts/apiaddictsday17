@@ -2,13 +2,12 @@
   id: 0
   name: "Jorge"
   surname: "Baumann"
-  title: "Desarrollo Web"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  title: "Front End Developer - Cloudappi"
+  thumbnailUrl: Jorge.jpeg
   team: true
-  #  ribbon:
-  #    - {abbr: "GDG", title: "Google Developer Group"}
+  ribbon:
+    - {abbr: "Org", title: "Organizador del evento"}
   social:
-    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/baumannzone"}
     - {name: "github", link: "https://github.com/baumannzone"}
     - {name: "site", link: "http://baumannzone.com/"}
@@ -17,10 +16,10 @@
   name: "Marco Antonio"
   surname: "Sanz"
   title: "CEO - Cloudappi - LeadGods"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: MarcoAntonio.png
   team: true
-  #  ribbon:
-  #    - {abbr: "GDG", title: "Google Developer Group"}
+  ribbon:
+    - {abbr: "Org", title: "Organizador del evento"}
   social:
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "site", link: "https://cloudappi.net"}
