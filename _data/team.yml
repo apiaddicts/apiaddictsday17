@@ -1,5 +1,5 @@
 - 
-  id: 0
+  id: 1
   name: "Jorge"
   surname: "Baumann"
   title: "Front End Developer - Cloudappi"
@@ -12,7 +12,7 @@
     - {name: "github", link: "https://github.com/baumannzone"}
     - {name: "site", link: "http://baumannzone.com/"}
 -
-  id: 1
+  id: 2
   name: "Marco Antonio"
   surname: "Sanz"
   title: "CEO - Cloudappi - LeadGods"

@@ -1,5 +1,7 @@
 # complexity: "Beginner" "Intermediate" "Expert"
 # subtype: presentation keynote workshop
+# presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 001
@@ -20,8 +22,6 @@
   subtype: presentation
   speakers: [3]
   complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 004
@@ -30,28 +30,22 @@
   subtype: keynote
   speakers: [4]
   complexity: "Expert"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 005
   title: "Seguridad en las APIs"
-  description: "En esta charla se explica cómo, usando patrones REST, acabamos implementando una idea similar a GraphQL, la cual acabamos adoptando para algunos casos."
-  subtype: workshop
+  description: "In a fast moving world where APIs are the cement of all new applications, proper security is a hard goal to reach. The presentation highlights 5 key principles to proper API Security."
+  subtype: presentation
   speakers: [5]
   complexity: "Expert"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 006
   title: "Un viaje hacia GraphQL"
-  description: "Seguridad en las APIs"
-  subtype: workshop
+  description: "En esta charla se explica cómo, usando patrones REST, acabamos implementando una idea similar a GraphQL, la cual acabamos adoptando para algunos casos."
+  subtype: presentation
   speakers: [6]
   complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 007
@@ -60,15 +54,13 @@
   subtype: presentation
   speakers: [7, 20]
   complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 008
   title: "Pausa comida"
   place: "Dónde quieras"
   service: true
-  description: "El mejor momento para hacer networking con los asistentes"
+  description: "El mejor momento para hacer networking con los asistentes y con los ponentes"
 
 -
   id: 009
@@ -78,7 +70,6 @@
   speakers: [8]
   complexity: "Intermediate"
   presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 010
@@ -87,8 +78,6 @@
   subtype: presentation
   speakers: [9]
   complexity: "Intermediate"
-  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 011
@@ -110,7 +99,16 @@
 -
   id: 013
   title: "Gobierno de Apis con IBM"
-  description: "Lorem"
+  description: "- Introducción al gobierno de Apis. Objetivos. <br>
+                - Definiendo recursos <br>
+                - Políticas de versionado <br>
+                - Seguridad <br>
+                - Estándares de definición e implementación <br>
+                - Documentación <br>
+                - Monitorización <br>
+                - Testing <br>
+                - Billing <br>
+                - Gestión de los entornos"
   subtype: presentation
   speakers: [12, 15]
   complexity: "Intermediate"
@@ -164,74 +162,3 @@
   subtype: workshop
   speakers: [17]
   complexity: "Intermediate"
-
-
-
-
-
-
-
-
-
-
-
-
-#-
-#  id: 307
-#  title: "Coffee Break"
-#  place: "Hall"
-#  service: true
-#  description: "The best time to talk with speakers and attendees"
-#-
-#  id: 503
-#  title: "Lunch Break"
-#  place: "Dining room"
-#  service: true
-#-
-#  id: 001
-#  title: "Material design: Visual style and imagery"
-#  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-#  subtype: workshop
-#  speakers: [3, 6]
-#  language: en
-#  complexity: "Intermediate"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-#-
-#  id: 002
-#  title: "Building Cloud-powered wearable Apps"
-#  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-#  subtype: presentation
-#  speakers: [4, 5]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-#-
-#  id: 003
-#  title: "Android L Animation"
-#  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-#  subtype: presentation
-#  speakers: [4]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#-
-#  id: 004
-#  title: "Polymer: Interacting with Google Services using nothing but HTML"
-#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#  subtype: keynote
-#  speakers: [6]
-#  language: uk
-#  complexity: "Beginner"
-#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-#-
-#  id: 005
-#  title: "Test: Interacting with Google Services using nothing but HTML"
-#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#  subtype: keynote
-#  speakers: [7]
-#  language: en
-#  complexity: "Expert"
-#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
