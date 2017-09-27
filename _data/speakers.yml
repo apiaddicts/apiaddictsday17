@@ -45,14 +45,14 @@
   name: "Felipe"
   surname: "Polo Ruiz"
   company: "Guide Smits"
-  title: "Full Stack engineer"
+  title: "MD en GuideSmiths Spain"
   bio: "Microservices advocate, TDD practitioner, full stack engineer and continuous learner. Digital transformer and MD at GuideSmiths Spain"
   thumbnailUrl: FelipePolo.jpg
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "twitter", link: "http://twitter.com/feliun"}
-- 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/feliun"}
+    - {name: "site", link: "https://www.guidesmiths.com/"}
+-
   id: 7
   name: "Raúl"
   surname: "Requero"
@@ -88,14 +88,17 @@
   id: 9
   name: "Enrique"
   surname: "García Navalón"
-  company: "SyncRTC"
-  title: "CTO en SyncRTC"
-  bio: "Lorem ipsum "
+  company: "Mashme.io"
+  title: "CTO en Mashme.io"
+  bio: "Ingeniero de teleco aficionado a las tecnologías web y cloud, con especial amor por las APIs, las automatizaciones y el real-time.
+        Intenté hacer un doctorado pero me tiran más los proyectos reales y dinámicos. Dejé mi trabajo para empezar mi startup, que no fue exactamente como estaba planeada…
+        Actualmente trabajo y me divierto en Mashme.io y gasto lo que me queda de tiempo en meetups, hackathones y hablar de tecnología con el primero que pasa por la calle."
   thumbnailUrl: GarciaNavalon.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
     - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+    - {name: "github", link: "https://github.com/garcianavalon"}
 
 -
   id: 10
