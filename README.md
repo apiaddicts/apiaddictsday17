@@ -10,9 +10,10 @@ Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, 
 [https://apiaddicts.github.io/apidaysmad17/](https://apiaddicts.github.io/apidaysmad17/)
 
 ### Contributions welcome
-1. Clone locally `devevlop` branch
-2. Update the repo 
-3. Create a pull request and assign it to me, Jorge Baumann (@baumannzone)
+1. Clone the repo
+2. Create a branch from `master`
+3. Update / Fix 
+4. Create a pull request and assign it to me, Jorge Baumann (@baumannzone)
 
 ## Local development
 

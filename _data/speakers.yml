@@ -44,7 +44,7 @@
   id: 6
   name: "Felipe"
   surname: "Polo Ruiz"
-  company: "Guide Smits"
+  company: "Guide Smiths"
   title: "MD en GuideSmiths Spain"
   bio: "Microservices advocate, TDD practitioner, full stack engineer and continuous learner. Digital transformer and MD at GuideSmiths Spain"
   thumbnailUrl: FelipePolo.jpg
@@ -137,11 +137,11 @@
   title: "Cloud Tech-sales Consultant"
   bio: "Jaime works with financial institutions, state and government agencies and departments, insurance companies,
        utility companies and retailers helping them on their digital transformation journey in topics such as mobile integration,
-       API Management, B2B integration, identity and access management solutions. This includes over 8 years experience with DataPower.
+       API Management, B2B integration, identity and access management solutions.
        He has a deep understanding in Web Services, SOA, ESB, API, REST, Microservices and cyber security. <br>
        Jaime has authored many IBM developerWorks articles and co-authored an IBM Redbook. <br>
        He has previously worked on emerging technologies initiatives based on Internet of Things (IoT). <br>
-       Jaime has a professional background in software development. He holds a Master's Degree of Computer Systems engineering from the Comillas Pontifical University (Madrid)."
+       He holds a Master's Degree of Computer Systems engineering from the Comillas Pontifical University (Madrid)."
   thumbnailUrl: JaimeMartin.jpg
   rockstar: true
   social:
@@ -153,8 +153,8 @@
   surname: "Azaustre"
   company: "Chefly"
   title: "CTO & Co-Founder at Chefly"
-  bio: "Training Specialist  👨🏻‍💻 #Firebase #JavaScript Full Stack Web developer on JavaScript ecosystem with tecnologies and frameworks such as Node.js, React, AngularJS, MongoDB, etc.., Over +7 years of experience at private companies, startups and as a freelancer. Currently working as CTO / Lead Developer at Chefly.
-  BSc in Telematics Engineering from Carlos III University of Madrid and studies for the MSc in Web Technologies from the University of Castile-La Mancha (Spain). Outside of formal education, I love self-learning thought MOOCs."
+  bio: "Desarrollador web Frontend apasionado de JavaScript, Node.js, Firebase, Vue y demás tecnologías web.
+        Ingeniero en Telemática y actualmente Cofundador y CTO de Chefly. Compagina su trabajo con la formación y evangelización de JavaScript a través de su blog como desde YouTube"
   thumbnailUrl: CarlosAzaustre.jpg
   rockstar: true
   social:
