@@ -12,7 +12,7 @@ abusivos, de escándalo público o que puedan faltar el respeto a otras personas
 En realidad, sabemos que es obvio y nos parece absurdo tener que explicar esto aquí. Pero si no te comportas, 
 tomaremos las medidas necesarias.  
 
-En cualquier caso, alguien te ha molestado o crees que está molestando a alguien, avísanos y nosotros nos ocuparemos.  
+En cualquier caso, si alguien te ha molestado o crees que está molestando a alguien, avísanos y nosotros nos ocuparemos.  
 
 ###### Contacto
 - Jorge Baumann, 658 812 217 [jorge.baumann@apiaddicts.org](mailto:jorge.baumann@apiaddicts.org)
