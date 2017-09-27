@@ -14,14 +14,13 @@
           <figure class="waves-effect waves-block waves-light"
                   style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
             <div class="overlay solid-overlay"></div>
-            <figcaption>
+            <figcaption class="">
               <div class="col-md-8 col-xs-8 text-left">
                 <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
                 <div class="clearfix"></div>
                 <span class="position">{{ teamMember.title }}</span>
               </div>
               {% for social in teamMember.social %}
-              <!--<p>{{ social.name }}</p>-->
               <a href="{{ social.link }}" target="_blank">
                 <svg class="icon icon-{{ social.name }}" viewBox="0 0 30 32">
                   <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.name }}"></use>
