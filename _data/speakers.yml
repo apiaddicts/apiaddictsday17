@@ -65,6 +65,7 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/requerogarciaraul/"}
+    - {name: "twitter", link: "http://twitter.com/rrequero"}
 -
   id: 8
   name: "Andres Leonardo"
@@ -268,7 +269,6 @@
   thumbnailUrl: SergioGordillo.jpg
   rockstar: true
   social:
-    #- {name: "twitter", link: "https://twitter.com/shmancebo"}
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sgordillo/"}
 
 
