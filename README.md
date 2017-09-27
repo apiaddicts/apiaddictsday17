@@ -1,4 +1,4 @@
-# API DAYS MADRID 17 site template
+# API Days Madrid # 17
 
 # [![APIDaysMad17](img/sprites/organizer-logo.png)](https://github.com/apiaddicts/apidaysmad17)
 
@@ -10,9 +10,9 @@ Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, 
 [https://apiaddicts.github.io/apidaysmad17/](https://apiaddicts.github.io/apidaysmad17/)
 
 ### Contributions welcome
-1. Clone locally `master` branch
+1. Clone locally `dev` branch
 2. Update the repo 
-3. Create pull request and assign to Jorge Baumann (@baumannzone)
+3. Create a pull request and assign it to me, Jorge Baumann (@baumannzone)
 
 ## Local development
 
