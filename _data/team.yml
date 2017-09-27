@@ -1,12 +1,10 @@
-- 
+-
   id: 1
   name: "Jorge"
   surname: "Baumann"
   title: "Front End Developer - Cloudappi"
   thumbnailUrl: Jorge.jpeg
   team: true
-  ribbon:
-    - {abbr: "Org", title: "Organizador del evento"}
   social:
     - {name: "twitter", link: "https://twitter.com/baumannzone"}
     - {name: "github", link: "https://github.com/baumannzone"}
@@ -18,8 +16,6 @@
   title: "CEO - Cloudappi - LeadGods"
   thumbnailUrl: MarcoAntonio.png
   team: true
-  ribbon:
-    - {abbr: "Org", title: "Organizador del evento"}
   social:
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "site", link: "https://cloudappi.net"}
