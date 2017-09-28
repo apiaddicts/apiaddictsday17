@@ -1,0 +1,17 @@
+#: Start: Api´s
+
+## Solo el principio.
+
+El tiempo es un elemento costoso, aunque no lo parezca. En el mundo en el que vivimos cada vez se pide más inmediatez a la par que perfeccionismo. La tecnología nos demuestra día a día que **ser eficiente es fundamental.**
+
+Lo cierto es que Roy Fielding, es quien nos muestra de manera oficial y por primera vez qué es una API en una [exposición](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) para la universidad de *Irvaine* (*California*) . Luego muchos han seguido sus pasos.
+
+Hoy en día **es difícil no encontrar una API que ahorró trabajo en una página web**. Hay muchas fuciones que nos sirven para ahorrar tiempo. Es natural pagar con tarjeta en una web para comprar una entrada de cine. Tanto como ver *Twitter* o *Facebook* en cualquier blog.
+Parece mentira, pero sólo reconocer una tarjeta de red en Windows, requiere en base de una API, que ahorra esfuerzo sudor y alguna que otra lágrima a propios y extraños.
+
+Hoy en día muchos conocen los beneficios que tiene una API. Desde grandes inversores hasta pequeños empresarios han sido consultados y encuestados, mostrando datos concluyentes en suma. Las API el desarrollo de sus negocios los haran mejores y sus efectos serán tan **positivos como trascendentes**. 
+
+
+Porque una api es eso en suma. Una manera de hacer que lo que ya está bien, lo que funciona, lo que es eficiente, no sólo no se quede en el olvido, sino que siga siendo una parte **muy importante.**
+
+Y esto es **sólo el principio.**
