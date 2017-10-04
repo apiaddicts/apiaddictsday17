@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Entradas vendidas"
-date:   2017-10-01 09:00:00
+title: "Entradas vendidas"
+date: 2017-10-02 09:00:00
 isStaticPost: false
 ---
 
 ###### ¿Con ganas de que llegue el día del evento? 
 ¡Nosotros estamos impacientes! 🤗 Hemos vendido **+200 entradas** (a coste cero, sí...) en menos de 2 días.  
-Pronto vamos a poner a la venta las entradas para los [talleres]({{site.url}}{{site.baseurl}}/schedule/). (Pronto publicaremos más info sobre esto)
+Pronto vamos a poner a la venta las entradas para los [talleres]({{site.url}}{{site.baseurl}}/schedule/). (Durante esta semana publicaremos más info al respecto)
 Cada taller va a tener una entrada única, aparte de la entrada general que ya tienes.  
 
 ###### Talleres 💻
