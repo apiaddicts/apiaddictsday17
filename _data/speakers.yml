@@ -120,14 +120,13 @@
   id: 11
   name: "Victor"
   surname: "Cuervo"
-  company: "Bloombees"
+  company: "~"
   title: "Data Engineer, Data Architect"
-  bio: "Lorem ipsum "
+  bio: "I am a technology lover. I like learning about technology, to be daily updated, see how to apply them to a professional environment and teach this knowledge to people.
+      Seeking complement the technical part with social and team management. Looking having high performance teams, competent and with a constant self-training."
   thumbnailUrl: user.png
-  rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
-    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/victorcuervo/"}
 
 -
   id: 12
@@ -256,7 +255,6 @@
   bio: "Ingeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid con amplia experiencia en soluciones .Net,
         y especializado especialmente en soluciones SharePoint desde el año 2011, en sus versiones 2007,2010 y 2013."
   thumbnailUrl: SergioHernandez.png
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/shmancebo"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
@@ -270,7 +268,6 @@
   title: "Engineer at Vizzuality"
   bio: "Desarrollador con gran interés en áreas como Cloud Computing y Machine Learning."
   thumbnailUrl: SergioGordillo.jpg
-  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/sgordillo/"}
 
