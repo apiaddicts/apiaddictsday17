@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Envía tus fotos"
+date:   2017-10-16 22:30:00
+isStaticPost: false
+---
+
+#### flickr
+Hola de nuevo, ahora que hemos recuperado un poco la rutina y todo está más tranquilo, nos vamos a encargar del contenido
+audiovisual del evento.  
+Por parte de Campus Madrid ya nos han pasado los **videos**. Son +10h de contenido, por lo que nos va a llevar un tiempo hacer
+la edición y el montaje de los mismos. En cuanto lo tengamos, lo subiremos a nuestro canal de [youtube](https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos)
+junto con su correspondiente presentación.  
+Os recordamos que los talleres no se han grabado y que tuvimos un pequeño (imprevisto) corte
+eléctrico en la línea que controlaba los micrófonos y la cámara, por lo que la charla de Arturo, de PSD2 se vió afectada.  
+
+
+Por otra parte, estamos subiendo las fotos a un album de [flickr](https://www.flickr.com/photos/baumannq/albums). 
+
+
+##### Agradecimientos
+Nos gustaría dar las gracias a todas las personas que han colaborado de forma directa, o indirecta con nosotros para hacer 
+el **API Days Madrid 2017**.  
+  
+En primer lugar vamos a agradecer a **[Cloudappi](https://cloudappi.net)**, la empresa patrocinadora que está detrás de 
+esta comunidad desde el principio, cuando los meetups se celebraban en [La colegiata](http://www.la-colegiata.es/), una hamburguesería de Getafe. 
+<img src="{{site.baseurl}}/img/posts/cloudappi.png" height="100px" alt="Cloudappi Logo"/>
+Cloudappi ha proporcionado todo el staff del evento (los de la camiseta roja), las pegatinas, las camisetas, etc.. ¿¡Qué 
+menos que un follow en twitter para agradecérselo!? [@cloudappi](https://twitter.com/cloudappi)
+
+En segundo lugar a Marco Antonio ([@marantonio82](https://twitter.com/marantonio82)) por tener la idea de crear este proyecto  
+y por darme la oportunidad de coordinar el evento y desarrollar la web del **API Days Madrid 2017**. (El repo de la web está 
+disponible [aquí](https://github.com/apiaddicts/apidaysmad17)).  
+  
+También quiero mencionar a todas aquellas personas que aportaron su granito de arena (_¡ójala no me olvide de nadie!_):  
+A todos los empleados de Cloudappi que trabajaron como staff en el evento: Asier, [Omar](https://twitter.com/omarvr72), Esther, Abiel, Iván, Alba, Laura y Guillermo. 
+A Antonio, del bar [La colegiata](http://www.la-colegiata.es/), a mi padre Jorge y a Humbertito por ayudarnos con la logística. A David 
+(también de cloudappi) por montarme el servicio para obtener los tuits a través de [Tweetledee](http://chrissimpkins.github.io/tweetledee/). 
+A tod@s los que nos han ido reportando bugs, errores y fallos de ortografía de la web del evento desde que publiqué la web, 
+tanto por email como por las redes sociales como por [github](https://github.com/apiaddicts/).  
+Especial mención para todos los **[ponentes](https://apiaddicts.github.io/apidaysmad17/speakers/)** que asistieron, que de forma altruista decidieron formar parte de esto compartiendo,
+a través de charlas o talleres, su conocimiento para toda la comunidad, la cual quedó muy agradecida.  
+A [Campus Madrid](https://www.campus.co/madrid/es) por dejarnos su espacio para que esto fuera posible. Sobretodo a Celia.
+Agradecemos también a Pablo, Christian y al personal de seguridad de Campus Madrid que siempre estuvieron dispuestos a ayudarnos, 
+con sudor y sangre 😜.  
+A [Jared](https://twitter.com/likerow) por su plataforma para las entradas. A María, mi secretaria personal, por apoyarme y por reportarme 
+algunos errores de ortografía.  
+Casi me olvido de mencionar a [@Open Source Weekends](https://twitter.com/os_weekends) por ser una comunidad modelo en la cual nos inspiramos, y por
+ayudarnos a promover el evento. Por lo mismo también, mencionamos a [Freddy](https://twitter.com/freddier) de [@Platzi](https://twitter.com/platzi).
+Un pequeño gesto como este significa mucho para nosotros como comunidad en proceso de crecimiento.
+  
+Y por supuesto, ¡a todos vosotros!. Quiero remarcar que esto no hubiera sido posible sin vuestra presencia.  
+
+<img src="{{site.baseurl}}/img/posts/thank-you.png" width="100%" alt="Thanks"/>
+  
+##### ¡¡Muchas gracias, y hasta la próxima!! 👋
+  
+Si quieres estar al tanto del material audiovisual que vamos a subir en los próximos días, síguenos en nuestras redes sociales:
+- [Slack](https://join.slack.com/t/apiaddicts/shared_invite/enQtMjU3MDU3MzQzMzY1LTBmODYxOTUwMzk3YWQ0MzIwMDg4NTgwNzgyNTMyY2Y0YWE3OTNhNGMwOGFjZDYzMmNiZDAxZjY4OWZhZGI3NWY) 🔥 Nuevo 🔥
+- [Facebook](https://www.facebook.com/apiaddicts/)
+- [Twitter](https://twitter.com/apiaddicts)
+- [Youtube](https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos)
+- [Meetup Madrid](https://www.meetup.com/es-ES/preview/ApiAddicts)
+- [Meetup Barcelona](https://www.meetup.com/es-ES/preview/ApiAddictsBCN)
+  
+> PD: Espero no dejarme a nadie, si crees que falta tu nombre, házmelo saber. 
+
+Fdo: [Jorge Baumann](https://twitter.com/baumannzone).
+
