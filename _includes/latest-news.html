@@ -8,6 +8,7 @@
         {% assign postUrl = site.baseurl | append: post.url %}
         <div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
           <h6 class="post-title">{{ post.title }}</h6>
+          <small class="author">por {{ post.author }}</small>
           <p class="post-body">
             {{ post.content | strip_html | truncate: 250 }}
             <a href="{{ postUrl }}">Ver más</a>
