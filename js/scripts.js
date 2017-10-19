@@ -11,11 +11,13 @@
     if ( $( window ).width() > 1500 ) {
       $( '.effect-wrapper' ).addClass( 'col-lg-3' );
     }
+
     if ( $( window ).width() < 768 ) {
       $( '.animated' ).removeClass( 'animated' ).removeClass( 'hiding' );
       $( '.stat span' ).removeClass( 'timer' );
       $( '.timeslot-label' ).addClass( 'stick-label' );
     }
+
     if ( $( window ).height() < 512 ) {
       $( '#bottom-navlinks' ).removeClass( 'bottom-navlinks' ).addClass( 'bottom-navlinks-small' );
     }
@@ -235,7 +237,7 @@
     // Twitter Tweetledee
     if ( typeof twitterFeedUrl !== 'undefined' ) {
       $.getJSON( twitterFeedUrl, function ( data ) {
-        $.each( data, function ( i, gist ) {
+        $.each( data.statuses, function ( i, gist ) {
           var tweetElement = '<div class="tweet animated fadeInUp hidden"><p class="tweet-text">' + linkify( gist.text ) + '</p><p class="tweet-meta">by <a href="https://twitter.com/' + gist.user.screen_name + '" target="_blank">@' + gist.user.screen_name + '</a></p></div>';
           $( '#tweets' ).append( tweetElement );
         } );
