@@ -1,5 +1,10 @@
 .latest-news {
-    .post {
-        margin-bottom: 40px;
-    }
+  .post {
+    margin-bottom: 40px;
+  }
+  .author {
+    position: relative;
+    font-size: 95%;
+    top: -8px;
+  }
 }
