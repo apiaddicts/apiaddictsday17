@@ -3,6 +3,8 @@ layout: post
 title:  "Trae tus entradas"
 date:   2017-10-10 22:30:00
 isStaticPost: false
+author: API Addicts
+authorLink: https://twitter.com/apiaddicts
 ---
 
 ##### Continuamos siguiendo...

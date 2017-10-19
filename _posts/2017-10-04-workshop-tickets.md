@@ -3,6 +3,8 @@ layout: post
 title:  "Entradas talleres"
 date:   2017-10-04 02:00:00
 isStaticPost: false
+author: API Addicts
+authorLink: https://twitter.com/apiaddicts
 ---
 
 ###### Seguimos continuando...

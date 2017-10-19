@@ -3,6 +3,8 @@ layout: post
 title:  "{response: 'Hello World!'}"
 date:   2017-09-01 18:00:00
 isStaticPost: false
+author: Jorge Baumann
+authorLink: https://twitter.com/baumannzone
 ---
 
 Hola! Estamos muy contentos de presentaros el mayor evento de APIs del año en Madrid, el 11 de Ocubre de 2017 en Campus Madrid.
