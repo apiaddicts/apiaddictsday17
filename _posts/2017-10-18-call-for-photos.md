@@ -3,6 +3,8 @@ layout: post
 title:  "Envía tus fotos"
 date:   2017-10-18 10:30:00
 isStaticPost: false
+author: Jorge Baumann 
+authorLink: https://twitter.com/baumannzone
 ---
 
 Hola de nuevo. Una vez dadas las gracias, es turno de centrarse en el contenido audiovisual del evento.

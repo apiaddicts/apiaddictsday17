@@ -3,6 +3,8 @@ layout: post
 title: "Entradas vendidas"
 date: 2017-10-02 09:00:00
 isStaticPost: false
+author: API Addicts
+authorLink: https://twitter.com/apiaddicts
 ---
 
 ###### ¿Con ganas de que llegue el día del evento? 

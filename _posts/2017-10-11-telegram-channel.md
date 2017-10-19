@@ -3,6 +3,8 @@ layout: post
 title:  "Canal de telegram"
 date:   2017-10-11 00:30:00
 isStaticPost: false
+author: API Addicts
+authorLink: https://twitter.com/apiaddicts
 ---
 
 Hola querid@ api-adict@.  
