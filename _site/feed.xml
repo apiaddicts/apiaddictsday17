@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Days Madrid 2017</title>
+    <description>Tu evento de APIs con un enfoque 360</description>
+    <link>http://localhost:4000/apidaysmad17/</link>
+    <atom:link href="http://localhost:4000/apidaysmad17/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Envía tus fotos</title>
+        <description>&lt;p&gt;Hola de nuevo. Una vez dadas las gracias, es turno de centrarse en el contenido audiovisual del evento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/apidaysmad17/img/posts/apidaysmad17.jpg&quot; width=&quot;100%&quot; alt=&quot;Api days madrid 2017&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Campus Madrid nos ha mandado los &lt;strong&gt;videos&lt;/strong&gt;. Son +10h de contenido, por lo que nos va a llevar un tiempo hacer
+la edición y el montaje de los mismos. En cuanto lo tengamos, lo subiremos a nuestro canal de &lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;youtube&lt;/a&gt;
+junto con las &lt;em&gt;presentaciones&lt;/em&gt; / &lt;em&gt;slides&lt;/em&gt; correspondientes.&lt;br /&gt;
+Os recordamos que los talleres no se han grabado y que tuvimos un pequeño (imprevisto) corte eléctrico en la línea que 
+controlaba los micrófonos y la cámara, por lo que la charla de Arturo (PSD2) se vió afectada y no se ha podido grabar.&lt;/p&gt;
+
+&lt;h4 id=&quot;fotos-del-evento&quot;&gt;Fotos del evento&lt;/h4&gt;
+
+&lt;p&gt;Por otra parte, estamos subiendo las fotos a un álbum de &lt;a href=&quot;https://www.flickr.com/photos/baumannq/albums&quot;&gt;flickr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/apidaysmad17/img/posts/flickr-logo.png&quot; height=&quot;40px&quot; alt=&quot;flickr logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Queremos que nos enviéis vuestras fotos. ¿Te animas? 📸 📱 Puedes colaborar enviando tus fotos a &lt;code class=&quot;highlighter-rouge&quot;&gt;jorge.baumann@apiaddicts.org&lt;/code&gt;.
+El álbum lo iremos actualizando periódicamente con las fotos que vayáis mandando. ¡Anímate y sé parte de esto! ¡Mándanos tus fotos!&lt;/p&gt;
+
+&lt;p&gt;Como siempre, lo publicaremos en nuestras redes sociales:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;🚨 &lt;a href=&quot;https://join.slack.com/t/apiaddicts/shared_invite/enQtMjU3MDU3MzQzMzY1LTBmODYxOTUwMzk3YWQ0MzIwMDg4NTgwNzgyNTMyY2Y0YWE3OTNhNGMwOGFjZDYzMmNiZDAxZjY4OWZhZGI3NWY&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/apiaddicts/&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/apiaddicts&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddicts&quot;&gt;Meetup Madrid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddictsBCN&quot;&gt;Meetup Barcelona&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 18 Oct 2017 12:30:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/call-for-photos</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/call-for-photos</guid>
+      </item>
+    
+      <item>
+        <title>Estamos muy agradecidos</title>
+        <description>&lt;h4 id=&quot;-muchas-gracias-&quot;&gt;😍 ¡Muchas gracias! 😍&lt;/h4&gt;
+&lt;p&gt;De nuevo, gracias. Ha sido un evento impresionante y hemos terminado muy contentos. Y todo gracias a vosotr@s, los asistentes
+y miembros del grupo que hacéis que esto sea posible. Al final del día fueron numerosas las muestras de agradecimiento 
+que recibimos, incluso después de la pequeña “catástrofe” que tuvimos cuando faltaron 2 ponentes seguidos.&lt;/p&gt;
+
+&lt;h5 id=&quot;agradecimientos&quot;&gt;Agradecimientos&lt;/h5&gt;
+&lt;p&gt;Nos gustaría dar las gracias a todas las personas que han colaborado de forma directa, o indirecta con nosotros para hacer 
+el &lt;strong&gt;API Days Madrid 2017&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En primer lugar vamos a agradecer a &lt;strong&gt;&lt;a href=&quot;https://cloudappi.net&quot;&gt;Cloudappi&lt;/a&gt;&lt;/strong&gt;, la empresa patrocinadora que está detrás de 
+esta comunidad desde el principio, cuando los meetups se celebraban en &lt;a href=&quot;http://www.la-colegiata.es/&quot;&gt;La colegiata&lt;/a&gt;, una hamburguesería de Getafe. 
+&lt;img src=&quot;/apidaysmad17/img/posts/cloudappi.png&quot; height=&quot;100px&quot; alt=&quot;Cloudappi Logo&quot; /&gt;
+Cloudappi ha proporcionado todo el staff del evento (los de la camiseta roja), las pegatinas, las camisetas, etc.. ¿¡Qué 
+menos que un follow en twitter para agradecérselo!? &lt;a href=&quot;https://twitter.com/cloudappi&quot;&gt;@cloudappi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En segundo lugar a Marco Antonio (&lt;a href=&quot;https://twitter.com/marantonio82&quot;&gt;@marantonio82&lt;/a&gt;) por tener la idea de crear este proyecto&lt;br /&gt;
+y por darme la oportunidad de coordinar el evento y desarrollar la web del &lt;strong&gt;API Days Madrid 2017&lt;/strong&gt;. (El repo de la web está 
+disponible &lt;a href=&quot;https://github.com/apiaddicts/apidaysmad17&quot;&gt;aquí&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;También quiero mencionar a todas aquellas personas que aportaron su granito de arena (&lt;em&gt;¡ójala no me olvide de nadie!&lt;/em&gt;):&lt;br /&gt;
+A todos los empleados de Cloudappi que trabajaron como staff en el evento: Asier, &lt;a href=&quot;https://twitter.com/omarvr72&quot;&gt;Omar&lt;/a&gt;, Esther, Abiel, Iván, Alba, Laura y Guillermo. 
+A Antonio, del bar &lt;a href=&quot;http://www.la-colegiata.es/&quot;&gt;La colegiata&lt;/a&gt;, a mi padre Jorge y a Humbertito por ayudarnos con la logística. A David 
+(también de cloudappi) por montarme el servicio para obtener los tuits a través de &lt;a href=&quot;http://chrissimpkins.github.io/tweetledee/&quot;&gt;Tweetledee&lt;/a&gt;. 
+A tod@s los que nos han ido reportando bugs, errores y fallos de ortografía de la web del evento desde que publiqué la web, 
+tanto por email como por las redes sociales como por &lt;a href=&quot;https://github.com/apiaddicts/&quot;&gt;github&lt;/a&gt;.&lt;br /&gt;
+Especial mención para todos los &lt;strong&gt;&lt;a href=&quot;https://apiaddicts.github.io/apidaysmad17/speakers/&quot;&gt;ponentes&lt;/a&gt;&lt;/strong&gt; que asistieron, que de forma altruista decidieron formar parte de esto compartiendo,
+a través de charlas o talleres, su conocimiento para toda la comunidad, la cual quedó muy agradecida.&lt;br /&gt;
+A &lt;a href=&quot;https://www.campus.co/madrid/es&quot;&gt;Campus Madrid&lt;/a&gt; por dejarnos su espacio para que esto fuera posible. Sobretodo a Celia.
+Agradecemos también a Pablo, Christian y al personal de seguridad de Campus Madrid que siempre estuvieron dispuestos a ayudarnos, 
+con sudor y sangre 😜.&lt;br /&gt;
+A &lt;a href=&quot;https://twitter.com/likerow&quot;&gt;Jared&lt;/a&gt; por su plataforma para las entradas. A María, mi secretaria personal, por apoyarme y por reportarme 
+algunos errores de ortografía.&lt;br /&gt;
+Casi me olvido de mencionar a &lt;a href=&quot;https://twitter.com/os_weekends&quot;&gt;@Open Source Weekends&lt;/a&gt; por ser una comunidad modelo en la cual nos inspiramos, y por
+ayudarnos a promover el evento. Por lo mismo también, mencionamos a &lt;a href=&quot;https://twitter.com/freddier&quot;&gt;Freddy&lt;/a&gt; de &lt;a href=&quot;https://twitter.com/platzi&quot;&gt;@Platzi&lt;/a&gt;.
+Un pequeño gesto como este significa mucho para nosotros como comunidad en proceso de crecimiento.&lt;/p&gt;
+
+&lt;p&gt;Y por supuesto, ¡a todos vosotros!. Quiero remarcar que esto no hubiera sido posible sin vuestra presencia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/apidaysmad17/img/posts/thank-you.png&quot; width=&quot;100%&quot; alt=&quot;Thanks&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;muchas-gracias-y-hasta-la-próxima-&quot;&gt;¡¡Muchas gracias, y hasta la próxima!! 👋&lt;/h5&gt;
+
+&lt;p&gt;Si quieres estar al tanto del material audiovisual que vamos a subir en los próximos días, síguenos en nuestras redes sociales:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/apiaddicts/shared_invite/enQtMjU3MDU3MzQzMzY1LTBmODYxOTUwMzk3YWQ0MzIwMDg4NTgwNzgyNTMyY2Y0YWE3OTNhNGMwOGFjZDYzMmNiZDAxZjY4OWZhZGI3NWY&quot;&gt;Slack&lt;/a&gt; 🔥 Nuevo 🔥&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/apiaddicts/&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/apiaddicts&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddicts&quot;&gt;Meetup Madrid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddictsBCN&quot;&gt;Meetup Barcelona&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;PD: Espero no dejarme a nadie, si crees que falta tu nombre, házmelo saber.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fdo: &lt;a href=&quot;https://twitter.com/baumannzone&quot;&gt;Jorge Baumann&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 17 Oct 2017 00:30:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/thank-you</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/thank-you</guid>
+      </item>
+    
+      <item>
+        <title>Canal de telegram</title>
+        <description>&lt;p&gt;Hola querid@ api-adict@.&lt;br /&gt;
+Este pequeño post es para informarte de que hemos creado un canal en &lt;a href=&quot;https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA&quot;&gt;Telegram&lt;/a&gt;.&lt;br /&gt;
+Para entrar solo necesitas tener una cuenta de &lt;a href=&quot;https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA&quot;&gt;Telegram&lt;/a&gt;. 
+Puedes configurar tu alias para que tu número de teléfono &lt;strong&gt;no&lt;/strong&gt; sea visible para el resto de los participantes del grupo.&lt;/p&gt;
+
+&lt;p&gt;Para entrar al canal de telegram, haz click &lt;a href=&quot;https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA&quot;&gt;aquí&lt;/a&gt;.&lt;br /&gt;
+&lt;img src=&quot;/apidaysmad17/img/posts/telegram.png&quot; width=&quot;300px&quot; alt=&quot;API Addicts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Y por si acaso no lo conocías, te recomendamos que mires &lt;a href=&quot;https://core.telegram.org/api&quot;&gt;https://core.telegram.org/api&lt;/a&gt; para que
+descrubras la cantidad de cosas chulas que se pueden hacer con la API de telegram.&lt;/p&gt;
+
+&lt;h5 id=&quot;nuestras-redes-sociales&quot;&gt;Nuestras redes sociales&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/apiaddicts/&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/apiaddicts&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddicts&quot;&gt;Meetup Madrid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddictsBCN&quot;&gt;Meetup Barcelona&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 11 Oct 2017 02:30:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/telegram-channel</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/telegram-channel</guid>
+      </item>
+    
+      <item>
+        <title>Trae tus entradas</title>
+        <description>&lt;h5 id=&quot;continuamos-siguiendo&quot;&gt;Continuamos siguiendo…&lt;/h5&gt;
+&lt;p&gt;¡Ahora sí! Ha llegado el momento. ¡El &lt;strong&gt;API Days Madrid 2017&lt;/strong&gt; ya está aquí!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Importante:&lt;/strong&gt; 🔥Acuérdate de traer tu entrada para poder acceder al track principal y/o a los talleres. 🔥&lt;/p&gt;
+
+&lt;p&gt;El acceso a Campus Madrid es limitado, por lo que te recomendamos ser puntual. De tal manera, si no vas a asistir al evento,
+te rogamos que canceles tu entrada para que otra persona la pueda aprovechar.&lt;/p&gt;
+
+&lt;h5 id=&quot;comparte-la-experiencia&quot;&gt;Comparte la experiencia&lt;/h5&gt;
+&lt;p&gt;Vamos a estar compartiendo lo que pasa bajo el hashtag &lt;a href=&quot;https://twitter.com/search?q=%23apidaysmad17&quot;&gt;#apidaysmad17&lt;/a&gt;. Si 
+quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web oficial del evento!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/apidaysmad17/img/posts/take-your-tickets.png&quot; width=&quot;100%&quot; alt=&quot;API Addicts&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;enlaces-de-interés&quot;&gt;Enlaces de Interés&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;En twitter estaremos publicando con &lt;a href=&quot;https://twitter.com/search?q=%23apidaysmad17&quot;&gt;#apidaysmad17&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ver la &lt;a href=&quot;https://apiaddicts.github.io/apidaysmad17/schedule/&quot;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Campus Madrid: &lt;a href=&quot;https://goo.gl/maps/bqu7SswoXW62&quot;&gt;Mapa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA&quot;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;nuestras-redes-sociales&quot;&gt;Nuestras redes sociales&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/apiaddicts/&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/apiaddicts&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddicts&quot;&gt;Meetup Madrid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/es-ES/preview/ApiAddictsBCN&quot;&gt;Meetup Barcelona&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;nos-vemos-mañana-&quot;&gt;¡Nos vemos mañana! 😍😍&lt;/h4&gt;
+
+</description>
+        <pubDate>Wed, 11 Oct 2017 00:30:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/take-your-tickets</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/take-your-tickets</guid>
+      </item>
+    
+      <item>
+        <title>Entradas talleres</title>
+        <description>&lt;h6 id=&quot;seguimos-continuando&quot;&gt;Seguimos continuando…&lt;/h6&gt;
+&lt;p&gt;¡Buenas terrícolas! Tal y como os avisamos en el post &lt;a href=&quot;https://apiaddicts.github.io/apidaysmad17/blog/tickets-sold&quot;&gt;anterior&lt;/a&gt;, 
+vamos a poner a la venta las entradas para los talleres el &lt;strong&gt;Lunes 9 de Octubre&lt;/strong&gt; a las 11:30 de la mañana si todo sale bien.&lt;/p&gt;
+
+&lt;p&gt;Os recordamos, que los talleres son grupos reducidos (24 personas máx.) en el aula de Campus Madrid. Para el que no 
+conozca el aula, es un espacio con mesas amplias para que puedas poner tu portátil, sillas y enchufes varios. Por supuesto, 
+dispone de internet abierto al público.&lt;/p&gt;
+
+&lt;p&gt;Para ver la lista de talleres disponibles que hay, haz click &lt;a href=&quot;https://apiaddicts.github.io/apidaysmad17/schedule/&quot;&gt;aquí&lt;/a&gt;, y busca
+la sección de &lt;strong&gt;Talleres&lt;/strong&gt; (debajo de las conferencias). La info necesaria para cada taller, la publicaremos en breve.&lt;/p&gt;
+
+&lt;p&gt;Síguenos en &lt;a href=&quot;https://twitter.com/apiaddicts&quot;&gt;twitter&lt;/a&gt;, si quieres estar enterado de las últimas noticias del evento o busca
+más información en twitter bajo el hastag &lt;a href=&quot;https://twitter.com/search?q=apidaysmad17&quot;&gt;#apidaysmad17&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h6 id=&quot;preguntas&quot;&gt;¿Preguntas?&lt;/h6&gt;
+&lt;p&gt;Deja tus comentarios aquí abajo 👇 o ponte en contacto con nosotros en nuestras redes sociales&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Oct 2017 04:00:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/workshop-tickets</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/workshop-tickets</guid>
+      </item>
+    
+      <item>
+        <title>Entradas vendidas</title>
+        <description>&lt;h6 id=&quot;con-ganas-de-que-llegue-el-día-del-evento&quot;&gt;¿Con ganas de que llegue el día del evento?&lt;/h6&gt;
+&lt;p&gt;¡Nosotros estamos impacientes! 🤗 Hemos vendido &lt;strong&gt;+200 entradas&lt;/strong&gt; (a coste cero, sí…) en menos de 2 días.&lt;br /&gt;
+Pronto vamos a poner a la venta las entradas para los &lt;a href=&quot;http://localhost:4000/apidaysmad17/schedule/&quot;&gt;talleres&lt;/a&gt;. (Durante esta semana publicaremos más info al respecto)
+Cada taller va a tener una entrada única, aparte de la entrada general que ya tienes.&lt;/p&gt;
+
+&lt;h6 id=&quot;talleres-&quot;&gt;Talleres 💻&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grupos reducidos: 24 personas máx. por aula.&lt;/li&gt;
+  &lt;li&gt;Tienes que traer tu portátil, ¡nosotros ponemos el resto!&lt;/li&gt;
+  &lt;li&gt;¡Ganas de aprender y pasártelo bien!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;🚨 Por lo tanto, tienes que estar atento, para que cuando la entradas estén listas puedas conseguir la del taller que más te gusta.&lt;/p&gt;
+
+&lt;p&gt;Como en la mayoría de los eventos gratuitos, hay mucha gente que se apunta y luego no va. Según las estadísticas, solo asiste a los
+eventos el 50% de las personas que se registran. Es por eso que, aunque el espacio de &lt;strong&gt;Campus Madrid&lt;/strong&gt; solo permite el acceso hasta 
+200 personas aproximadamente, todavía no hemos cerrado la venta de entradas.&lt;/p&gt;
+
+&lt;p&gt;Mientras tanto, te puedes pasar por nuestro canal de &lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;youtube&lt;/a&gt;, aunque aún nos faltan muchos por subir, 
+podrás ver los videos que hemos subido de nuestras charlas.&lt;/p&gt;
+
+&lt;h5 id=&quot;alguna-pregunta&quot;&gt;¿Alguna pregunta?&lt;/h5&gt;
+&lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Oct 2017 11:00:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/tickets-sold</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/tickets-sold</guid>
+      </item>
+    
+      <item>
+        <title>Call for Papers cerrado</title>
+        <description>&lt;p&gt;El mayor evento de APIs, API Addicts Day, se celebra el día &lt;em&gt;*11 de octubre de 2017&lt;/em&gt; en Campus Madrid, en la ciudad de Madrid.
+Hoy, día 10 de Septiembre, dejamos de aceptar propuestas (&lt;strong&gt;CFP&lt;/strong&gt;) y vamos a confirmar la lista de ponentes y la agenda.&lt;/p&gt;
+
+&lt;h4 id=&quot;conferencias-y-talleres-qué-temas-se-van-a-tratar&quot;&gt;Conferencias y talleres. ¿Qué temas se van a tratar?&lt;/h4&gt;
+&lt;p&gt;Hemos creado una selección de charlas / talleres de lo más divertido. Estos son algunos de los temas que vamos a tratar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NodeJS&lt;/li&gt;
+  &lt;li&gt;PSD2&lt;/li&gt;
+  &lt;li&gt;Gobierno de APIs&lt;/li&gt;
+  &lt;li&gt;Seguridad&lt;/li&gt;
+  &lt;li&gt;.NET&lt;/li&gt;
+  &lt;li&gt;Python&lt;/li&gt;
+  &lt;li&gt;Open API&lt;/li&gt;
+  &lt;li&gt;GraphQL&lt;/li&gt;
+  &lt;li&gt;¡Muchas cosas más!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;conferencias&quot;&gt;Conferencias&lt;/h5&gt;
+&lt;p&gt;Las conferencias o charlas, tendrán una duración aproximada de 1h, y son parte. Tenemos que ser puntuales para que nos de tiempo a todas,
+y no se nos vaya de hora. Tendremos turno de ruegos y preguntas al final de cada sesión.&lt;/p&gt;
+
+&lt;h5 id=&quot;talleres&quot;&gt;Talleres&lt;/h5&gt;
+&lt;p&gt;Los talleres tienen un aforo máximo de 25 personas. Tienes que traer tu portátil y muchas ganas de aprender y lo más importante.. ¡de picar código!
+Tendrá una duración aproximada, de 1 hora y media y habrá plazas limitadas. Pronto publicaremos más detalles acerca de los talleres y de las entradas.&lt;/p&gt;
+
+&lt;h5 id=&quot;has-dicho-twitter&quot;&gt;Has dicho twitter?&lt;/h5&gt;
+&lt;p&gt;¡Queremos que nos vean en todo el mundo! Vamos a compartir toda nuestra info en las redes sociales bajo el hashtag &lt;strong&gt;#apidaysmad17&lt;/strong&gt;.
+¡Ayúdanos a conseguir nuestra meta y comparte en tus redes usando &lt;strong&gt;#apidaysmad17&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;alguna-pregunta&quot;&gt;¿Alguna pregunta?&lt;/h5&gt;
+&lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 21:00:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/call-for-papers</guid>
+      </item>
+    
+      <item>
+        <title>{response: 'Hello World!'}</title>
+        <description>&lt;p&gt;Hola! Estamos muy contentos de presentaros el mayor evento de APIs del año en Madrid, el 11 de Ocubre de 2017 en Campus Madrid.
+¡Ya no queda casi nada¡, y estamos esperando con muchas ganas que llegue la fecha indicada.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Asistencia&lt;/strong&gt;: Esperamos una asistencia de +350 personas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Temáticas&lt;/strong&gt;: +10 horas de charlas y talleres de APIs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fecha&lt;/strong&gt;: 11 Octubre 2017, 2 tracks, conferencias y talleres simultáneos. ¡Y alguna sorpresa!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dónde&lt;/strong&gt;: Campus Madrid, un espacio de Google. Calle Moreno Nieto, 2 Madrid 28005&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ponentes&lt;/strong&gt;: Ya tenemos casi cerrada la lista de ponentes, ¡Menudo equipo hemos formado! Toda la info &lt;a href=&quot;/apidaysmad17/speakers&quot;&gt;aquí&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Podrás encontrar más detalles del evento en futuras publicaciones.
+Por el momento, puedes seguirnos en &lt;a href=&quot;https://twitter.com/apiaddicts&quot;&gt;Twitter&lt;/a&gt;, en &lt;a href=&quot;https://www.facebook.com/apiaddicts/&quot;&gt;Facebook&lt;/a&gt;
+o formar parte de la comunidad &lt;a href=&quot;https://www.meetup.com/es-ES/ApiAddicts/&quot;&gt;Meetup&lt;/a&gt; (Madrid) / &lt;a href=&quot;https://www.meetup.com/es-ES/ApiAddictsBCN/&quot;&gt;MeetupBCN&lt;/a&gt; (Barcelona).&lt;/p&gt;
+
+&lt;p&gt;En nuestro canal de &lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;youtube&lt;/a&gt;, aunque aún nos faltan muchos por subir, podrás ver los videos que hemos subido de nuestras charlas.&lt;/p&gt;
+
+&lt;h5 id=&quot;alguna-pregunta&quot;&gt;¿Alguna pregunta?&lt;/h5&gt;
+&lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2017 20:00:00 +0200</pubDate>
+        <link>http://localhost:4000/apidaysmad17/blog/hello-world</link>
+        <guid isPermaLink="true">http://localhost:4000/apidaysmad17/blog/hello-world</guid>
+      </item>
+    
+  </channel>
+</rss>

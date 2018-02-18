@@ -8,24 +8,23 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "API Days Madrid 2017"
-email: "jorge.baumann@apiaddicts.org"
+email: "contacta@apiaddicts.org"
 description: "Tu evento de APIs con un enfoque 360"
-baseurl: "/apidaysmad17"
-url: "https://apiaddicts.github.io"
+#baseurl: "/apidaysmad17"
+baseurl: "http://www.apidaysmadrid.es"
+url: "http://www.apidaysmadrid.es"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-60085396-6"
-googleAnalyticsSiteUrl: "apiaddicts.github.io/apidaysmad17/"
-googleAnalyticsSiteUrl: "apiaddicts.github.io/apidaysmad17/"
+googleAnalyticsTrackingId: "UA-63062484-5"
+googleAnalyticsSiteUrl: "www.apidaysmadrid.es"
 siteVerification: "8syDqXyPBXLeDN4OObptLtn2xyRCTBo-W9lLWhkoW_A"
 
 # Organizer Info
 organizerName: "API Addicts"
 organizerAlternateName: "API Addicts"
 organizerDescription: "Comunidad abierta en la que tratamos con pasión todos los aspectos de una API con un enfoque 360º"
-organizerEmail: "jorge.baumann@apiaddicts.org"
+organizerEmail: "contacta@apiaddicts.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.apiaddicts.org/"
 
@@ -38,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
-c4sponsorsUrl: "mailto:jorge.baumann@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
+c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
 
 
 # Navigation
@@ -119,8 +118,7 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
 twitterHashTag: "apidaysmad17"
-twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"  // #apidaysmad17
-#twitterFeed: "https://tweetledee.cloudappi.net/favoritesjson.php?c=10&cache_interval=8000" //Favs
+twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"  
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -191,8 +189,7 @@ footerBlocks:
  -
   title: "Contacto"
   links:
-   - {link: "mailto:jorge.baumann@apiaddicts.org", text: "jorge.baumann@apiaddicts.org"}
-   - {link: "mailto:marcoantonio.sanz@apiaddicts.org", text: "marcoantonio.sanz@apiaddicts.org"}
+   - {link: "mailto:contacta@apiaddicts.org", text: "contacta@apiaddicts.org"}
  -
   title: "FAQ"
   links:
