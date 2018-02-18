@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/apidaysmad17/sitemap.xml
+Sitemap: http://www.apidaysmadrid.es/http://www.apidaysmadrid.es/sitemap.xml
