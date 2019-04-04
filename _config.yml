@@ -9,11 +9,11 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "API Days Madrid 2017"
+title: "API Days Madrid 2019"
 email: "contacta@apiaddicts.org"
 description: "Tu evento de APIs con un enfoque 360"
-#baseurl: "/apidaysmad17"
-baseurl: "http://www.apidaysmadrid.es"
+baseurl: "/apidaysmad"
+# baseurl: "http://www.apidaysmadrid.es"
 url: "http://www.apidaysmadrid.es"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-63062484-5"
@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "API Days Madrid <typeout> 2017"
-eventDate: "11 Octubre de 2017"
+heroTitle: "API Days Madrid <typeout> 2019"
+eventDate: "26 de Abril del 2019"
 typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
 typeoutFallback: "(Definición)"
 heroButtons:
@@ -98,9 +98,9 @@ eventAddressLocality: "Madrid"
 eventAddressLocalityRegion: "Madrid"
 eventPostalCode: "28005"
 eventAddressCountry: "España"
-eventStartTime: "2017-10-11T10:00"
-eventDoorTime: "09:30"
-eventEndTime: "2017-10-11T21:00"
+eventStartTime: "2019-04-26T09:15"
+eventDoorTime: "09:00"
+eventEndTime: "2019-04-26T15:45"
 eventPlaceCoordinates: "40.4125986, -3.7182459000000563"
 mapCenterCoordinates: "40.4125986, -3.7182459000000563"
 mapMobileCenterCoordinates: "40.4125986, -3.7182459000000563"
@@ -117,7 +117,7 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "apidaysmad17"
+twitterHashTag: "apidaysmad19"
 twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"  
 
 # Partners Block
