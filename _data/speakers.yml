@@ -59,18 +59,17 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/victorcuervo/"}
 -
-  id: 5
-  name: "Omar"
-  surname: "del Valle"
-  company: "Finect"
-  title: "API Management design"
-  bio: "Developer con más de 15 años de experiencia en el uso de Tecnologías Microsoft. Actualmente enfocado en C# y adicto a términos tales como: POO, clean code, refactoring, maintainability, patterns/anti-patterns, solid principles && agile methodology
-       Microsoft certified professional && Microsoft Certified Training
-      Apìaddict actualmente enfocado en temas de API governance con API management technology (WSO2, IBM Connect, Apigee, Amazon gateway, Azure API Management, etc.), estrategias de versionado y definición de estándar de trabajo basado en arquitectura REST. Run time governance, que incluye elementos de monitoring, deployment y dynamic provisioning."
-  thumbnailUrl: OmarDelValle.jpeg
+  id: 12
+  name: "Pablo"
+  surname: "Moncada Isla"
+  company: "Masmovil"
+  title: "Technical Lead @ MÁSMÓVIL & Google Developer Expert (Cloud)"
+  bio: ""
+  thumbnailUrl: PabloMoncada.jpeg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pmoncadaisla/"}
+
 -
   id: 6
   name: "Rafael"
@@ -151,15 +150,17 @@
 
 -
   id: 12
-  name: "Pablo"
-  surname: "Moncada Isla"
-  company: "Masmovil"
-  title: "Technical Lead @ MÁSMÓVIL & Google Developer Expert (Cloud)"
-  bio: ""
-  thumbnailUrl: PabloMoncada.jpeg
+  name: "Omar"
+  surname: "del Valle"
+  company: "Finect"
+  title: "API Management design"
+  bio: "Developer con más de 15 años de experiencia en el uso de Tecnologías Microsoft. Actualmente enfocado en C# y adicto a términos tales como: POO, clean code, refactoring, maintainability, patterns/anti-patterns, solid principles && agile methodology
+       Microsoft certified professional && Microsoft Certified Training
+      Apìaddict actualmente enfocado en temas de API governance con API management technology (WSO2, IBM Connect, Apigee, Amazon gateway, Azure API Management, etc.), estrategias de versionado y definición de estándar de trabajo basado en arquitectura REST. Run time governance, que incluye elementos de monitoring, deployment y dynamic provisioning."
+  thumbnailUrl: OmarDelValle.jpeg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pmoncadaisla/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
 
 -
   id: 13
@@ -173,6 +174,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/shmancebo"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
+
 -
   id: 14
   name: "Marco Antonio"
@@ -192,6 +194,7 @@
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
     -
+
 - 
   id: 15
   name: "Marco "
