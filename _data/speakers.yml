@@ -29,158 +29,156 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/carlosmingof"}
 
 - 
-  id: 5
-  name: "Isabelle"
+  id: 3
+  name: "David Ramos Lenhoff"
   surname: "Mauny"
-  company: "42Crunch"
-  title: "CTO at 42Crunch"
-  bio: "I am working for 42Crunch, a company providing an API security platform, putting security at the heart of APIs lifecycle: development, testing, deployment. I manage product management, product marketing as well as analysts relationship. Previously, I was working for WSO2 as VP of Product Strategy and Technical Evangelist for WSO2's open source platform, mainly in Europe."
-  thumbnailUrl: IsabelleMauny.jpg
+  company: "BBVA"
+  title: "Head of Technology of Open Platform (APIs)"
+  bio: "Head of technology of BBVA Open Platform (APIs) Spain and responsible for BBVA API_Market, one of the world leader initiatives in open banking. Additionally, we have been helping both BBVA Bancomer and BBVA Compass with the technical definitions of their open banking initiatives.
+    I've technically led different projects within BBVA as private banking’s “BBVA Asesora” or the download center for internal BBVA mobiles apps. Starting my journey in open banking with BBVA Compass’ Open Platform initiative in 2015.
+    Senior software engineer and passionate about agile methodologies, with wide experience as technical leader of web applications and APIs, mainly for BBVA, but also for Vodafone, Prosegur, BMW, public administration among others.
+    Always worked with continuous delivery and the latest technologies. 
+    I consider myself responsible, methodical, organized, patient and with a high degree of commitment.
+    Some of my personal skills are self-learning, good communicator, teamwork and decision making."
+  thumbnailUrl: DavidRamos.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/davidramosleh/"}
 - 
-  id: 6
-  name: "Felipe"
-  surname: "Polo Ruiz"
-  company: "Guide Smiths"
-  title: "MD en GuideSmiths Spain"
-  bio: "Microservices advocate, TDD practitioner, full stack engineer and continuous learner. Digital transformer and MD at GuideSmiths Spain"
-  thumbnailUrl: FelipePolo.jpg
-  social:
-    - {name: "twitter", link: "http://twitter.com/feliun"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/feliun"}
-    - {name: "site", link: "https://www.guidesmiths.com/"}
--
-  id: 7
-  name: "Raúl"
-  surname: "Requero"
-  company: "Vizzuality"
-  title: "Full Stack Architect"
-  bio: "Actualmente trabajo como arquitecto full-stack en Vizzuality diseñando e implementando una API de microservicios.
-        Además soy formador de distintas tecnologías (AngularJS, React, Node, etc) y cofundador del grupo de Meetup OWASP Madrid.
-        En resumen, me encanta aprender cosas nuevas y disfruto compartiendo lo que se."
-  thumbnailUrl: RaulRequero.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/requerogarciaraul/"}
-    - {name: "twitter", link: "http://twitter.com/rrequero"}
--
-  id: 8
-  name: "Andres Leonardo"
-  surname: "Martinez Ortiz"
-  company: "Google"
-  title: "Developer Program Manager at Google"
-  bio: "Andres L. Martinez-Ortiz a.k.a almo is Head of Developer Program in Google's Engineering team for several countries in Europe.
-        He is focused on driving the success of Google's developer products and the open web by creating a thriving ecosystem of 3rd party
-        applications and businesses built on them. Closely with Product Management, Marketing, PR, Business Development, and other, he works
-        with and supports developer communities, initiating activities that meet the needs of the innovation ecosystem. In addition, he meets
-        with developers and partners in large companies, startups, universities and enterprises, promoting Open standards and Google technologies.
-        He is also member of IEEE, ACM, Linux Foundation and Computer Society."
-  thumbnailUrl: Almo.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
-    - {name: "twitter", link: "http://twitter.com/davilagrau"}
-
--
-  id: 9
-  name: "Enrique"
-  surname: "García Navalón"
-  company: "Mashme.io"
-  title: "CTO en Mashme.io"
-  bio: "Ingeniero de teleco aficionado a las tecnologías web y cloud, con especial amor por las APIs, las automatizaciones y el real-time.
-        Intenté hacer un doctorado pero me tiran más los proyectos reales y dinámicos. Dejé mi trabajo para empezar mi startup, que no fue exactamente como estaba planeada…
-        Actualmente trabajo y me divierto en Mashme.io y gasto lo que me queda de tiempo en meetups, hackathones y hablar de tecnología con el primero que pasa por la calle."
-  thumbnailUrl: GarciaNavalon.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
-    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
-    - {name: "github", link: "https://github.com/garcianavalon"}
-
--
-  id: 10
-  name: "Fernando"
-  surname: "Valverde Sañudo"
-  company: "Bloombees"
-  title: "Back-end - API Team Leader in Bloombees"
-  bio: "Fernando has been in software development for more than 10 years, mainly focused on Web Application environments
-        and specialized in the Back-end world (API, payment methods, data engineering and behavioral marketing).
-        After working for companies in different sectors (technology & software development companies, product oriented companies and marketing agencies)
-        he acquired 360º knowledge on how to approach the best solution for a project to bring together technical requirements,
-        business needs and of course, always keeping in mind the most valuable, the end user."
-  thumbnailUrl: FernandoValverde.jpg
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandovalverde/"}
-    - {name: "twitter", link: "https://twitter.com/FernandoVS_"}
-
--
-  id: 11
-  name: "Victor"
+  id: 4
+  name: "Víctor"
   surname: "Cuervo"
-  company: "~"
-  title: "Data Engineer, Data Architect"
-  bio: "I am a technology lover. I like learning about technology, to be daily updated, see how to apply them to a professional environment and teach this knowledge to people.
-      Seeking complement the technical part with social and team management. Looking having high performance teams, competent and with a constant self-training."
-  thumbnailUrl: user.png
+  company: "Guide Smiths"
+  title: "Head of Architecture"
+  bio: "I am a technology lover. I like learning about technology, to be daily updated, see how to apply them to a professional environment and teach this knowledge to people. Seeking complement the technical part with social and team management. Looking having high performance teams, competent and with a constant self-training. Mix of technical knowledge and a good team is essential to meet any challenge.
+    In the last 12 years I have been leading technical teams of different skills, in international and large projects. Always in the world of technology, software engineering and innovation. My career focuses on five points: software architecture, software engineering, methodologies, quality assurance and transformation projects.
+    One of my hobbies is programming. I try to find enough time (sleep time) to keep me in practice. I go to hackathons and meetups related to programming. I can say that programming relaxes me. I make public every program or code that I write in some of my websites. Línea de Código (http://lineadecodigo.com) is the most important of them. It helps to people who are starting with programming languages. This process of publish to the web has also led me to have as a hobby a study of topics like SEO, SEM and Web Analytics.
+    I am a lover of photography. I enjoy tasting wines. I practice soccer and running and I read about history.
+    I can not be doing nothing. I need do something every second of my time. The last second will not return."
+  thumbnailUrl: VictorCuervo.jpg
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/victorcuervo/"}
-
 -
-  id: 12
-  name: "Jaime"
-  surname: "Martín Talavera"
-  company: "IBM"
-  title: "Cloud Tech-sales Consultant"
-  bio: "Jaime works with financial institutions, state and government agencies and departments, insurance companies,
-       utility companies and retailers helping them on their digital transformation journey in topics such as mobile integration,
-       API Management, B2B integration, identity and access management solutions.
-       He has a deep understanding in Web Services, SOA, ESB, API, REST, Microservices and cyber security. <br>
-       Jaime has authored many IBM developerWorks articles and co-authored an IBM Redbook. <br>
-       He has previously worked on emerging technologies initiatives based on Internet of Things (IoT). <br>
-       He holds a Master's Degree of Computer Systems engineering from the Comillas Pontifical University (Madrid)."
-  thumbnailUrl: JaimeMartin.jpg
-  rockstar: true
-  social:
-   - {name: "linkedin", link: "https://www.linkedin.com/in/jaimemt"}
-
--
-  id: 13
-  name: "Carlos"
-  surname: "Azaustre"
-  company: "Chefly"
-  title: "CTO & Co-Founder at Chefly"
-  bio: "Desarrollador web Frontend apasionado de JavaScript, Node.js, Firebase, Vue y demás tecnologías web.
-        Ingeniero en Telemática y actualmente Cofundador y CTO de Chefly. Compagina su trabajo con la formación y evangelización de JavaScript a través de su blog como desde YouTube"
-  thumbnailUrl: CarlosAzaustre.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/carlosazaustre"}
-    - {name: "twitter", link: "https://twitter.com/carlosazaustre"}
-
--
-  id: 14
+  id: 5
   name: "Omar"
-  surname: "del Valle Rodríguez"
-  company: "Cloudappi"
-  title: "Consultant / Training / API addict"
-  bio: "Developer con más de 15 años de experiencia en el uso de Tecnologías Microsoft. MCT - Microsoft Certified Training. Actualmente enfocado en C# y adicto a términos tales como:
-    POO, clean code, refactoring, maintainability, patterns/anti-patterns, solid principles && agile methodology.
-    Microsoft certified professional en Web, Win-Form, WCF, ADO && Designing and Developing Enterprise Applications.
-    Trabajo con arquitecturas N-Tiers, DDD, CQRS o Micro-services. También con procesos de desarrollo como TDD, y metodologías ágiles orientadas principalmente al framework de Scrum."
+  surname: "del Valle"
+  company: "Finect"
+  title: "API Management design"
+  bio: "Developer con más de 15 años de experiencia en el uso de Tecnologías Microsoft. Actualmente enfocado en C# y adicto a términos tales como: POO, clean code, refactoring, maintainability, patterns/anti-patterns, solid principles && agile methodology
+       Microsoft certified professional && Microsoft Certified Training
+      Apìaddict actualmente enfocado en temas de API governance con API management technology (WSO2, IBM Connect, Apigee, Amazon gateway, Azure API Management, etc.), estrategias de versionado y definición de estándar de trabajo basado en arquitectura REST. Run time governance, que incluye elementos de monitoring, deployment y dynamic provisioning."
   thumbnailUrl: OmarDelValle.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
-    - {name: "twitter", link: "https://twitter.com/omarvr72"}
+-
+  id: 6
+  name: "Rafael"
+  surname: "Rocha"
+  company: "Sensedia"
+  title: "Lead Solutions Architect"
+  bio: "Rafael Rocha is a Senior Solutions Architect at Sensedia, he has a technologist degree in Information Technology from UNESP and a postgraduate degree in MBA Business Management from UNIMEP. 
+       Working with development based on Java and Microsoft platforms since 2001, has worked in several environments and lines of business for national and global companies, such as Goodyear, DPaschoal, Maritima, Oi, Petrobras, TV Globo, Porto Seguro, DivX, Magazine Luiza, Vivo, Telefónica, Natura and more recently Walmart.com. 
+      Nowadays, he have been worked in the web based projects in the following stack: Angular.JS, Backbone.JS, Node.JS, Spring MVC and Hibernate. Also, he have been worked in projects based on Microservices Architecture delivering APIs components on the following stack: RESTEasy, Spring Framework, Redis and Hibernate.
+      He is an Oracle SOA platform certified and has good experience in SOA projects.
+      Specialties: Java programming, architecture definition, scrum agile development, performance tunning, leadership, software sales, SOA and BPM implementarion, SOA Governance, value engineering and Canonical Data Model Definition"
+  thumbnailUrl: RadaelRocha.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelprocha/"}
 
 -
-  id: 15
+  id: 7
+  name: "Pablo"
+  surname: "Almunia"
+  company: "Corus consulting"
+  title: "Chairman & CEO"
+  bio: ""
+  thumbnailUrl: PabloAlmunia.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pabloalmunia/"}
+
+-
+  id: 8
+  name: "Álvaro"
+  surname: "Navarro"
+  company: "Amadeus"
+  title: "Developer Advocate"
+  bio: "I'm that kind of people who writes Software just for fun. https://github.com/alnacle/"
+  thumbnailUrl: AlvaroNavarro.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
+
+-
+  id: 9
+  name: "Jose Ramon"
+  surname: "Huerga Ayuso"
+  company: "Everis"
+  title: "Technical Manager"
+  bio: "IT Professional with more than 15 years of experience in IT, delivering Agile projects in areas such as API Management / Microservices, Banking, CRM, ECM, and SOA. 
+       International career with outstanding English skills (IELTS exam, score: 7.0). Currently working in Germany, UK, Argentina, and Spain implementing Enterprise API Projects (CMA OpenBanking, PSD2) using IBM API Connect.
+       Alumni of IESE Business School (Ranking #5 of MBA Business Schools, according to Forbes)."
+  thumbnailUrl: JoseRamonHuerga.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jrhuerga/"}
+
+-
+  id: 10
+  name: "Marta"
+  surname: "Arcones"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: MartaArcones.jpg
+  rockstar: true
+  social:
+  # - {name: "linkedin", link: "https://www.linkedin.com/in/jaimemt"}
+
+-
+  id: 11
+  name: "Noelia"
+  surname: "Martin Hernández"
+  company: "Paradigma"
+  title: "Consultora API Management"
+  bio: "Ingeniera superior de telecomunicaciones con más de cinco años de experiencia profesional en el desarrollo, integración y pruebas de aplicaciones y servicios web en J2EE, Spring y WSO2. 
+    Capacidad para desempeñar funciones como consultora y analista con conocimiento de metodología Scrum, entornos de desarrollo Eclipse y frameworks de desarrollo como Spring, JPA e hibernate.
+    Actualmente trabajando como Arquitecto SOA con tecnologías WSO2 en varios clientes realizando tareas desde el análisis de requisitos, hasta el diseño e implantación de la solución."
+  thumbnailUrl: NoeliaMartin.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/noelia-mart%C3%ADn-hern%C3%A1ndez-9bb12960/"}
+
+-
+  id: 12
+  name: "Pablo"
+  surname: "Moncada Isla"
+  company: "Masmovil"
+  title: "Technical Lead @ MÁSMÓVIL & Google Developer Expert (Cloud)"
+  bio: ""
+  thumbnailUrl: PabloMoncada.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pmoncadaisla/"}
+
+-
+  id: 13
+  name: "Sergio"
+  surname: "Hernández Mancebo"
+  company: "ENCAMINA"
+  title: "Principal Team Leader"
+  bio: "Ingeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid con amplia experiencia en soluciones .Net,
+        y especializado especialmente en soluciones SharePoint desde el año 2011, en sus versiones 2007,2010 y 2013."
+  thumbnailUrl: SergioHernandez.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/shmancebo"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
+-
+  id: 14
   name: "Marco Antonio"
   surname: "Sanz"
   company: "Cloudappi"
-  title: "CEO at LeadGods, Founder at CloudAppi"
+  title: "CEO at CloudAppi, CTO at Waima Techonolies, API Evangelist at APIAddicts"
   bio: "Más de 10 años de experiencia en el sector. He liderado proyectos tan importantes como el registro central de medidas cautelares y violencia doméstica del Ministerio de Justicia,
   el departamento de explotación, receta XXI y incapacidad temporal de Indra dentro del Servicio Andaluz de Salud y el departamento de Apis internas del BBVA, entre las que se encontraba entre otros proyecto, el ticket digital. <br>
         Soy fundador de API Addicts, uno de los grupos de charlas más importante sobre APIs. <br>
@@ -193,81 +191,15 @@
     - {name: "site", link: "https://cloudappi.net"}
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
-
--
-  id: 16
-  name: "Iván"
-  surname: "Alegre Torrejon"
-  company: "Seedtag"
-  title: "Backend engineer at seedtag"
-  bio: "Engineer who started in the dark world of Frontend in every shape to end in the bright space of Backend.<br>
-        Lover of the simple, the powerful, of the well done API REST interfaces, OAuth, JS, TS and other little things that make my life easier."
-  thumbnailUrl: IvanAlegre.jpg
+    -
+- 
+  id: 15
+  name: "Marco "
+  surname: "Márquez"
+  company: "Kong Inc"
+  title: "Kong Solutions Architect and MBA Graduate from WU"
+  bio: ""
+  thumbnailUrl: MarcoMarquez.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/alegretorrejon"}
-    - {name: "github", link: "http://github.com/IvanAlegre/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/julio-iv%C3%A1n-alegre-torrej%C3%B3n-bb209a19/"}
-
--
-  id: 17
-  name: "Ricardo"
-  surname: "Vegas García"
-  company: "Beeva"
-  title: "Arquitecto Técnico, experto en APIs."
-  bio: "Máster en Ingeniería web, especializado en diseño, implementación e implantación de APIs REST.
-        Experto en arquitectura de software con un interés muy grande en nuevas tecnologías.
-        Ha desarrollado APIs para una muchos sectores, desde cloud hasta redes sociales, pasando por banca y microservicios.
-        Lenguaje principal Python3."
-  thumbnailUrl: RicardoVegas.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "http://ricardo.vegas/"}
-    - {name: "twitter", link: "https://twitter.com/ricardovegas"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ricardovegas/"}
-
--
-  id: 18
-  name: "Adrián"
-  surname: "Díaz Cervera"
-  company: "ENCAMINA"
-  title: "Software Architect"
-  bio: "Adrián Díaz es Ingeniero de Informática por la Universidad Politécnica de Valencia, MVP de SharePoint Server desde Enero de 2014, MCSD de SharePoint 2013 y Web Aplication, MCPD de SharePoint 2010 y MCC 2012. <br>
-        Cofundador del grupo de usuarios de SharePoint de Levante LevaPoint. <br>
-        Lleva desarrollando con tecnologías Microsoft más de 10 años y desde hace 3 años está centrado en el desarrollo sobre SharePoint. <br>
-        Actualmente es arquitecto de soluciones SharePoint en ENCAMINA. <br>
-        Es colaborador de la revista CompartiMOSS y miembro de los grupos de usuarios de SharePoint de España (SUGES) y de la Comunidad de Office365. <br>
-        Además es participa activamente en eventos presenciales y online sobre SharePoint."
-  thumbnailUrl: AdrianDiaz.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/AdrianDiaz81"}
-    - {name: "site", link: "http://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/adriandiazcervera/"}
-
--
-  id: 19
-  name: "Sergio"
-  surname: "Hernández Mancebo"
-  company: "ENCAMINA"
-  title: "Principal Team Leader"
-  bio: "Ingeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid con amplia experiencia en soluciones .Net,
-        y especializado especialmente en soluciones SharePoint desde el año 2011, en sus versiones 2007,2010 y 2013."
-  thumbnailUrl: SergioHernandez.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/shmancebo"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
-
-
--
-  id: 20
-  name: "Sergio"
-  surname: "Gordillo"
-  company: "Vizzuality"
-  title: "Engineer at Vizzuality"
-  bio: "Desarrollador con gran interés en áreas como Cloud Computing y Machine Learning."
-  thumbnailUrl: SergioGordillo.jpg
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sgordillo/"}
-
-
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcoamarquez/"}
