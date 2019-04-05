@@ -68,8 +68,7 @@ heroButtons:
 aboutTitle: "API Days Madrid"
 aboutBlock:
  - {title: "Conferencias", image: "conference.jpg", text: "Charlas diversas, por expertos de las APIs de empresas de todo el mundo!" }
- - {title: "Mesa Redonda", image: "workshop.jpg", text: "Debate, opina, pregunta. Mesa redonda con las APIs como parte del negocio" }
- - {title: "Talleres", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
+ - {title: "Talleres", image: "workshop.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
