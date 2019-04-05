@@ -73,9 +73,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "usuarios", detail: "registrados"}
- - {count: "10", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
- - {count: "18", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
+ - {count: "250", specialCharacter: "+", info: "entradas", detail: ""}
+ - {count: "8", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
+ - {count: "15", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
  - {count: "2", specialCharacter: "", info: "tracks", detail: "Taller / Charla"}
 
 # Latest News Block
