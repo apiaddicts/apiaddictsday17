@@ -13,14 +13,16 @@
   id: 002
   title: "The AsyncAPI specification"
   description: "En esta charla, se explicará en qué consiste el estándar AsyncAPI y cómo está cambiando el mundo de las APIs dirigidas por eventos."
-  service: true
+  subtype: presentation
+  speakers: [1]
+  complexity: "Intermediate"
 
 -
   id: 003
   title: "DevOps+Pruebas aceptación/regresión"
   description: "Cómo realizar DevOps junto con pruebas automáticas de aceptación/regresión de APIs"
   subtype: presentation
-  speakers: [3]
+  speakers: [2]
   complexity: "Intermediate"
 
 -
@@ -28,7 +30,7 @@
   title: "Open Banking: la experiencia de BBVA"
   description: "Lecciones aprendidas en la puesta en marcha de la estrategia de open banking en BBVA: developer center, ejemplos y posibilidades del uso de APis abiertas"
   subtype: presentation
-  speakers: [4]
+  speakers: [3]
   complexity: "Intermediate"
 -
   id: 005
@@ -40,7 +42,7 @@
   title: "No me toques esas APIs"
   description: "Experiencia de haber montado en una empresa la gestión de API Management desde 0. Explicación del proceso realizado durante 3 años. Aciertos y desaciertos. Risas y lloros. Buenas prácticas aprendidas en el trayecto."
   subtype: presentation
-  speakers: [5]
+  speakers: [4]
   complexity: "Intermediate"
 
 -
@@ -49,7 +51,7 @@
   description: "Poder visualizar y monitorizar nuestro sistema como si fuese una caja blanca es fundamental. Mediante una monitorización de caja negra únicamente podremos saber si en determinadas circunstancias nuestra aplicación responde correctamente, pero no tendremos la foto global de lo que le sucede a todos los usuarios y tampoco podremos saber dónde exactamente pueden estar ocurriendo los errores.
 Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones para tener absoluta observabilidad. Veremos cómo desplegar las aplicaciones en Istio y implementar el patrón RED definido en el SRE Handbook de Google (Requests, Errors, Delays) sin hacer nada en nuestra aplicación."
   subtype: presentation
-  speakers: [6]
+  speakers: [5]
   complexity: "Intermediate"
 
 -
@@ -64,7 +66,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   title: "GraphQL, gRPC o REST - ¿Quién gana ese partido?"
   description: "El objetivo de esta conferencia es presentar la evolución de estos modelos, características, ventajas y desventajas, compartiendo experiencias de casos reales de Sensedia en proyectos de sus clientes como Natura, Elo credit card, Edenred, entre otras."
   subtype: presentation
-  speakers: [7, 20]
+  speakers: [6]
   complexity: "Intermediate"
 
 
@@ -73,7 +75,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   title: "Lecciones aprendidas de la construcción de un API Gateware: que ganas y que pierdes en el camino"
   description: "Tras la construcción de un completo sistema de gestión de API's y su correspondiente Gateway hay un conjunto de conclusiones sobre este proceso y su resultado que son de interés para cualquier que se enfrente ante el dilema de adoptar una solución de mercado o desarrollar desde cero (o sobre la base de algunas librerías) un sistema completo. Hay algunas ventajas e inconvenientes en cada opción y analizaremos una por una para poder dar un visión completa de en que consiste un sistema de estas características y los retos que tiene que afrontar."
   subtype: presentation
-  speakers: [8]
+  speakers: [7]
   complexity: "Intermediate"
   presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
 
@@ -83,7 +85,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   description: "Una plataforma de APIs abiertas establece un nuevo paradigma dentro de una empresa: atrae innovación, permite establecer una visión clara de las necesidad de los cliente, y además, ayuda al posicionamiento tecnológico eliminando las barreras que antes existían.
     Esta charla comparte la experiencia adquirida desde Amadeus a la hora de lanzar nuestra plataforma de APIs abiertas, Amadeus for Developers, desde su concepción hasta su lanzamiento final, pasando por las fases de implementación, testing y despliegue."
   subtype: presentation
-  speakers: [9]
+  speakers: [8]
   complexity: "Intermediate"
 
 -
@@ -97,7 +99,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   title: "GraphQL - Taller de AWS App Sync"
   description: "Taller explicando cómo crear APIs con AWS API Gateway + Lambda + DynamoDB y cómo construir sobre esa base una API GraphQL usando AWS App Sync"
   subtype: workshop
-  speakers: [11]
+  speakers: [9]
   complexity: "Intermediate"
 
 -
@@ -106,7 +108,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   description: "Introducción a Karate DSL, un framework para testing de servicios HTTP que combina gran potencia y versatilidad con una curva de aprendizaje súper asequible. 
         Se dará una serie de  recursos para que al salir de la charla, tengáis una suite de pruebas Karate funcionando en minutos."
   subtype: workshop
-  speakers: [12, 15]
+  speakers: [10]
   complexity: "Intermediate"
 
 ## Talleres
@@ -121,7 +123,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   title: "De 0 a 100 con Webmethods"
   description: "Taller práctico en el que se hará un tour de las funcionalidades que ofrece el producto y de manera práctica se enseñará como configurar diferentes politicas: transformación del mensaje, seguridad, control de throttling, enmascarado de datos, etc."
   subtype: workshop
-  speakers: [14]
+  speakers: [11]
   complexity: "Intermediate"
 
 -
@@ -129,7 +131,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   title: "API Managment sin API Managers"
   description: "Se explicará como hacer API Management sin necesidad de utilizar API Managers"
   subtype: workshop
-  speakers: [18, 19]
+  speakers: [12]
   complexity: "Intermediate"
 
 -
@@ -144,14 +146,14 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   title: "¿Quién dice que en .net no se pueden hacer microservicios?"
   description: "Introducción a como desplegar nuestras apis/microservicios en contenedores y como gobernarlos. Veremos una introducción a Kubernetes en Azure con AKS, o como desarrollar en local con docker compose o Azure dev space. Cosas tan importantes como el versionado o el enrutamiento no pueden quedar fuera. Y si queda tiempo siempre puede caer alguna sorpresilla!!"
   subtype: workshop
-  speakers: [17]
+  speakers: [13]
   complexity: "Intermediate"
 -
   id: 020
   title: "Taller de definición de APIs"
   description: "Se explicará como definir tu primera API utilizando Open API y exponerla en un API Manager"
   subtype: workshop
-  speakers: [17]
+  speakers: [14]
   complexity: "Easy"
 -
   id: 021
@@ -159,5 +161,5 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   description: "Many companies are transitioning to microservices but what factors influence whether or not to blow up your monolith? The advantages of moving to a microservices architecture include increased performance, deployability and scalability, but these advantages come at the cost of increased complexity. This presentation will cover the architectural considerations involved in transitioning from a monolithic to a microservices or service-oriented architecture. Take a technical look into the factors to consider during a transition including how to define boundaries between microservices, interservice communication patterns and testing. Learn strategies for transitioning such as the “ice cream scoop,” “lego” and “nuclear” options, routing and versioning strategies, and how to handle libraries and security to maximize service independence.
 While the abstract is in English, I am equally happy to present in Spanish rather than English."
   subtype: workshop
-  speakers: [17]
+  speakers: [15]
   complexity: "Easy"
