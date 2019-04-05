@@ -8,7 +8,7 @@ authorLink: https://twitter.com/apiaddicts
 ---
 
 ##### Continuamos siguiendo...
-¡Ahora sí! Ha llegado el momento. ¡El **API Days Madrid 2017** ya está aquí!  
+¡Ahora sí! Ha llegado el momento. ¡El **API Days Madrid 2019** ya está aquí!  
  
 **Importante:** 🔥Acuérdate de traer tu entrada para poder acceder al track principal y/o a los talleres. 🔥  
 
@@ -16,13 +16,13 @@ El acceso a Campus Madrid es limitado, por lo que te recomendamos ser puntual. D
 te rogamos que canceles tu entrada para que otra persona la pueda aprovechar.  
 
 ##### Comparte la experiencia
-Vamos a estar compartiendo lo que pasa bajo el hashtag [#apidaysmad17](https://twitter.com/search?q=%23apidaysmad17). Si 
+Vamos a estar compartiendo lo que pasa bajo el hashtag [#apidaysmad19](https://twitter.com/search?q=%23apidaysmad17). Si 
 quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web oficial del evento! 
 
 <img src="{{site.baseurl}}/img/posts/take-your-tickets.png" width="100%" alt="API Addicts"/>
 
 ##### Enlaces de Interés
-- En twitter estaremos publicando con [#apidaysmad17](https://twitter.com/search?q=%23apidaysmad17)
+- En twitter estaremos publicando con [#apidaysmad19](https://twitter.com/search?q=%23apidaysmad17)
 - Ver la [Agenda](https://apiaddicts.github.io/apidaysmad17/schedule/)
 - Campus Madrid: [Mapa](https://goo.gl/maps/bqu7SswoXW62)
 - [Telegram](https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA)
@@ -34,5 +34,5 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 - [Meetup Madrid](https://www.meetup.com/es-ES/preview/ApiAddicts)
 - [Meetup Barcelona](https://www.meetup.com/es-ES/preview/ApiAddictsBCN)
 
-#### ¡Nos vemos mañana! 😍😍
+#### ¡Nos vemos el 26 de Abril! 😍😍
 
