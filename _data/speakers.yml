@@ -10,7 +10,7 @@
   bio: "I was born on 1983 in Bern (Switzerland) but grew up in Badajoz, Spain. I started to have interest about programming and new technologies at the age of 11, and always wanted to be an engineer.
         During the last 3 years, I've been working and investigating Microservices architectures and API design. Especially on event-driven solutions and patterns.
         I love to talk in conferences, to swim and to get lost in the mountain. Cats & Beers lover, not necessarily together :=)"
-  thumbnailUrl: FranMendez.jpg
+  thumbnailUrl: FranMendez.jpeg
   rockstar: true
   social:
   #  - {name: "twitter", link: "https://twitter.com/toolsprods"}
@@ -23,7 +23,7 @@
   company: "UST Global"
   title: "Responsable Arquitectura Gobierno de APIs en Segurcaixa Adeslas "
   bio: ''
-  thumbnailUrl: CarlosMingo.jpg
+  thumbnailUrl: CarlosMingo.jpeg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/carlosmingof"}
@@ -40,7 +40,7 @@
     Always worked with continuous delivery and the latest technologies. 
     I consider myself responsible, methodical, organized, patient and with a high degree of commitment.
     Some of my personal skills are self-learning, good communicator, teamwork and decision making."
-  thumbnailUrl: DavidRamos.jpg
+  thumbnailUrl: DavidRamos.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/davidramosleh/"}
@@ -55,7 +55,7 @@
     One of my hobbies is programming. I try to find enough time (sleep time) to keep me in practice. I go to hackathons and meetups related to programming. I can say that programming relaxes me. I make public every program or code that I write in some of my websites. Línea de Código (http://lineadecodigo.com) is the most important of them. It helps to people who are starting with programming languages. This process of publish to the web has also led me to have as a hobby a study of topics like SEO, SEM and Web Analytics.
     I am a lover of photography. I enjoy tasting wines. I practice soccer and running and I read about history.
     I can not be doing nothing. I need do something every second of my time. The last second will not return."
-  thumbnailUrl: VictorCuervo.jpg
+  thumbnailUrl: VictorCuervo.jpeg
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/victorcuervo/"}
 -
@@ -67,7 +67,7 @@
   bio: "Developer con más de 15 años de experiencia en el uso de Tecnologías Microsoft. Actualmente enfocado en C# y adicto a términos tales como: POO, clean code, refactoring, maintainability, patterns/anti-patterns, solid principles && agile methodology
        Microsoft certified professional && Microsoft Certified Training
       Apìaddict actualmente enfocado en temas de API governance con API management technology (WSO2, IBM Connect, Apigee, Amazon gateway, Azure API Management, etc.), estrategias de versionado y definición de estándar de trabajo basado en arquitectura REST. Run time governance, que incluye elementos de monitoring, deployment y dynamic provisioning."
-  thumbnailUrl: OmarDelValle.jpg
+  thumbnailUrl: OmarDelValle.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
@@ -82,7 +82,7 @@
       Nowadays, he have been worked in the web based projects in the following stack: Angular.JS, Backbone.JS, Node.JS, Spring MVC and Hibernate. Also, he have been worked in projects based on Microservices Architecture delivering APIs components on the following stack: RESTEasy, Spring Framework, Redis and Hibernate.
       He is an Oracle SOA platform certified and has good experience in SOA projects.
       Specialties: Java programming, architecture definition, scrum agile development, performance tunning, leadership, software sales, SOA and BPM implementarion, SOA Governance, value engineering and Canonical Data Model Definition"
-  thumbnailUrl: RadaelRocha.jpg
+  thumbnailUrl: RadaelRocha.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelprocha/"}
@@ -94,7 +94,7 @@
   company: "Corus consulting"
   title: "Chairman & CEO"
   bio: ""
-  thumbnailUrl: PabloAlmunia.jpg
+  thumbnailUrl: PabloAlmunia.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pabloalmunia/"}
@@ -106,7 +106,7 @@
   company: "Amadeus"
   title: "Developer Advocate"
   bio: "I'm that kind of people who writes Software just for fun. https://github.com/alnacle/"
-  thumbnailUrl: AlvaroNavarro.jpg
+  thumbnailUrl: AlvaroNavarro.jpeg
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
 
@@ -130,7 +130,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: MartaArcones.jpg
+  thumbnailUrl: MartaArcones.jpeg
   rockstar: true
   social:
   # - {name: "linkedin", link: "https://www.linkedin.com/in/jaimemt"}
@@ -156,7 +156,7 @@
   company: "Masmovil"
   title: "Technical Lead @ MÁSMÓVIL & Google Developer Expert (Cloud)"
   bio: ""
-  thumbnailUrl: PabloMoncada.jpg
+  thumbnailUrl: PabloMoncada.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pmoncadaisla/"}
@@ -199,7 +199,7 @@
   company: "Kong Inc"
   title: "Kong Solutions Architect and MBA Graduate from WU"
   bio: ""
-  thumbnailUrl: MarcoMarquez.jpg
+  thumbnailUrl: MarcoMarquez.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/marcoamarquez/"}
