@@ -2,32 +2,31 @@
 #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
 
 -
-  id: 3
-  name: "Álvaro"
-  surname: "Nuñez-Romero"
-  company: "Eleven Paths"
-  title: "Limited Secrets: Control parental de Apps con la API de Latch"
-  bio: "Ingeniero de Imagen y Sonido. Máster en Seguridad de la Información. Instructor en hackersClub.
-        Actualmente trabajando en el laboratorio de la Unidad de Ciberseguridad de Telefónica, Eleven Paths.
-        Entusiasta de la tecnología y la seguridad informática."
-  thumbnailUrl: AlvaroNuñez.jpg
+  id: 1
+  name: "Fran"
+  surname: "Méndez Vilas"
+  company: "Founder"
+  title: "AsyncAPI Initiative"
+  bio: "I was born on 1983 in Bern (Switzerland) but grew up in Badajoz, Spain. I started to have interest about programming and new technologies at the age of 11, and always wanted to be an engineer.
+        During the last 3 years, I've been working and investigating Microservices architectures and API design. Especially on event-driven solutions and patterns.
+        I love to talk in conferences, to swim and to get lost in the mountain. Cats & Beers lover, not necessarily together :=)"
+  thumbnailUrl: FranMendez.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/toolsprods"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anunezrc/"}
+  #  - {name: "twitter", link: "https://twitter.com/toolsprods"}
+    - {name: "linkedin", link: "https://linkedin.com/in/fmvilas"}
 
 - 
-  id: 4
-  name: "Arturo"
-  surname: "Gonzalez Mac Dowell"
-  company: "Eurobits"
-  title: "President & CEO at Eurobits"
-  bio: 'All my professional career has pivoted around the introduction to market of high-tech products and services for the financial sector.
-  One of the achievements I am most proud of is the first Account Information Service in Europe which we have been offering through Eurobits since 2.004.'
-  thumbnailUrl: ArturoMacDowell.png
+  id: 2
+  name: "Carlos"
+  surname: "Mingo Fernandez"
+  company: "UST Global"
+  title: "Responsable Arquitectura Gobierno de APIs en Segurcaixa Adeslas "
+  bio: ''
+  thumbnailUrl: CarlosMingo.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/arturo-gonzalez-mac-dowell-b1a302/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carlosmingof"}
 
 - 
   id: 5
