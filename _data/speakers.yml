@@ -119,7 +119,7 @@
   bio: "IT Professional with more than 15 years of experience in IT, delivering Agile projects in areas such as API Management / Microservices, Banking, CRM, ECM, and SOA. 
        International career with outstanding English skills (IELTS exam, score: 7.0). Currently working in Germany, UK, Argentina, and Spain implementing Enterprise API Projects (CMA OpenBanking, PSD2) using IBM API Connect.
        Alumni of IESE Business School (Ranking #5 of MBA Business Schools, according to Forbes)."
-  thumbnailUrl: JoseRamonHuerga.jpg
+  thumbnailUrl: JoseRamonHuerga.jpeg
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jrhuerga/"}
 
@@ -144,7 +144,7 @@
   bio: "Ingeniera superior de telecomunicaciones con más de cinco años de experiencia profesional en el desarrollo, integración y pruebas de aplicaciones y servicios web en J2EE, Spring y WSO2. 
     Capacidad para desempeñar funciones como consultora y analista con conocimiento de metodología Scrum, entornos de desarrollo Eclipse y frameworks de desarrollo como Spring, JPA e hibernate.
     Actualmente trabajando como Arquitecto SOA con tecnologías WSO2 en varios clientes realizando tareas desde el análisis de requisitos, hasta el diseño e implantación de la solución."
-  thumbnailUrl: NoeliaMartin.jpg
+  thumbnailUrl: NoeliaMartin.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/noelia-mart%C3%ADn-hern%C3%A1ndez-9bb12960/"}
