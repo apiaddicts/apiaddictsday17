@@ -1,22 +1,30 @@
 -
   id: 1
-  name: "Jorge"
-  surname: "Baumann"
-  title: "Front End Developer - Cloudappi"
-  thumbnailUrl: Jorge.jpeg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/baumannzone"}
-    - {name: "github", link: "https://github.com/baumannzone"}
-    - {name: "site", link: "http://baumannzone.com/"}
--
-  id: 2
   name: "Marco Antonio"
-  surname: "Sanz"
-  title: "CEO - Cloudappi - LeadGods"
+  surname: "Sanz Molina Prados"
+  title: "CEO en Cloudappi, CTO en Waima Technologies,  coordinador en APIAddicts"
   thumbnailUrl: MarcoAntonio.png
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/marantonio82"}
-    - {name: "site", link: "https://cloudappi.net"}
-    - {name: "site", link: "https://leadgods.com"}
+    - {name: "twitter", link: "https://twitter.com/MarAntonio82"}
+    - {name: "github", link: "https://github.com/MarAntonio82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
+-
+  id: 2
+  name: "Omar"
+  surname: "del Valle"
+  title: "API Management design en Finect"
+  thumbnailUrl: Omar.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/omarvr72"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
+-
+  id: 3
+  name: "Noelia"
+  surname: "Martín"
+  title: "Consultora API Management"
+  thumbnailUrl: Noelia.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/noelia-mart%C3%ADn-hern%C3%A1ndez-9bb12960/"}
