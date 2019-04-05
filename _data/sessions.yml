@@ -11,154 +11,153 @@
 
 -
   id: 002
-  title: "Presentación"
-  description: "Presentación del evento. API Addicts"
+  title: "The AsyncAPI specification"
+  description: "En esta charla, se explicará en qué consiste el estándar AsyncAPI y cómo está cambiando el mundo de las APIs dirigidas por eventos."
   service: true
 
 -
   id: 003
-  title: "Limited Secrets: Control parental de Apps con la API de Latch"
-  description: "La tecnología Latch te permite implementar un pestillo de seguridad en tus servicios online. El “secreto” de una aplicación de Latch es una parte fundamental ya que es una clave que nos permite firmar las peticiones que se realizan a la API. Con la llegada de los limited secrets se pueden evitar escenarios en donde nuestro secreto principal puede verse comprometido por un tercero."
+  title: "DevOps+Pruebas aceptación/regresión"
+  description: "Cómo realizar DevOps junto con pruebas automáticas de aceptación/regresión de APIs"
   subtype: presentation
   speakers: [3]
   complexity: "Intermediate"
 
 -
   id: 004
-  title: "PSD2"
-  description: "PSD2"
-  subtype: keynote
+  title: "Open Banking: la experiencia de BBVA"
+  description: "Lecciones aprendidas en la puesta en marcha de la estrategia de open banking en BBVA: developer center, ejemplos y posibilidades del uso de APis abiertas"
+  subtype: presentation
   speakers: [4]
-  complexity: "Expert"
-
+  complexity: "Intermediate"
 -
   id: 005
-  title: "Seguridad en las APIs"
-  description: "In a fast moving world where APIs are the cement of all new applications, proper security is a hard goal to reach. The presentation highlights 5 key principles to proper API Security."
-  subtype: presentation
-  speakers: [5]
-  complexity: "Expert"
-
+  title: "Café y pastas"
+  description: "Coge fuerza para seguir"
+  subtype: notes
 -
   id: 006
-  title: "Un viaje hacia GraphQL"
-  description: "En esta charla se explica cómo, usando patrones REST, acabamos implementando una idea similar a GraphQL, la cual acabamos adoptando para algunos casos."
+  title: "No me toques esas APIs"
+  description: "Experiencia de haber montado en una empresa la gestión de API Management desde 0. Explicación del proceso realizado durante 3 años. Aciertos y desaciertos. Risas y lloros. Buenas prácticas aprendidas en el trayecto."
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
+
+-
+  id: 007
+  title: "Observabilidad absoluta tus microservicios cómo si fueras el ojo de Sauron"
+  description: "Poder visualizar y monitorizar nuestro sistema como si fuese una caja blanca es fundamental. Mediante una monitorización de caja negra únicamente podremos saber si en determinadas circunstancias nuestra aplicación responde correctamente, pero no tendremos la foto global de lo que le sucede a todos los usuarios y tampoco podremos saber dónde exactamente pueden estar ocurriendo los errores.
+Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones para tener absoluta observabilidad. Veremos cómo desplegar las aplicaciones en Istio y implementar el patrón RED definido en el SRE Handbook de Google (Requests, Errors, Delays) sin hacer nada en nuestra aplicación."
   subtype: presentation
   speakers: [6]
   complexity: "Intermediate"
 
 -
-  id: 007
-  title: "Mashups API"
-  description: "Trataremos de exponer los distintos retos y decisiones tomadas en el desarrollo de una API pública cuyo objetivo es agregar múltiples fuentes de datos (NASA, Google, ArcGIS, Carto, etc) y poderlas consumir con un lenguaje común. Además veremos también las decisiones que nos llevaron a implementar una API RESTful basada en microservicios"
-  subtype: presentation
-  speakers: [7, 20]
-  complexity: "Intermediate"
-
--
   id: 008
   title: "Pausa comida"
-  place: "Dónde quieras"
+  place: "Vente a comer para reponer fuerzas "
   service: true
   description: "El mejor momento para hacer networking con los asistentes y con los ponentes"
 
 -
   id: 009
-  title: "Machine Intelligence, Artificial Learning"
-  description: "Use case for online content curating with Google Machine Learning APIs: Cloud Vision and Prediction API."
+  title: "GraphQL, gRPC o REST - ¿Quién gana ese partido?"
+  description: "El objetivo de esta conferencia es presentar la evolución de estos modelos, características, ventajas y desventajas, compartiendo experiencias de casos reales de Sensedia en proyectos de sus clientes como Natura, Elo credit card, Edenred, entre otras."
+  subtype: presentation
+  speakers: [7, 20]
+  complexity: "Intermediate"
+
+
+-
+  id: 010
+  title: "Lecciones aprendidas de la construcción de un API Gateware: que ganas y que pierdes en el camino"
+  description: "Tras la construcción de un completo sistema de gestión de API's y su correspondiente Gateway hay un conjunto de conclusiones sobre este proceso y su resultado que son de interés para cualquier que se enfrente ante el dilema de adoptar una solución de mercado o desarrollar desde cero (o sobre la base de algunas librerías) un sistema completo. Hay algunas ventajas e inconvenientes en cada opción y analizaremos una por una para poder dar un visión completa de en que consiste un sistema de estas características y los retos que tiene que afrontar."
   subtype: presentation
   speakers: [8]
   complexity: "Intermediate"
   presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
 
 -
-  id: 010
-  title: "Asynchronous APIs: robust APIs for the post-REST world"
-  description: "La Open API Initiative es el esfuerzo de la industria por estandarizar la descripción de APIs REST, pero cada vez demandamos más de nuestras APIs, sobretodo aquellas orientadas a communicación inter-procesos en nuestro backend (multiples transportes, asíncronia, subscripciones, etc.). El crecimiento de estas nuevas APIs post-REST es una oportunidad para actualizar nuestro kit de herramientas y resolver problemas de nuevas formas. En esta charla explicaremos el cambio de paradigma, por qué REST no es suficiente y que es AsyncAPI, la iniciativa hermana de Open API para este nuevo mundo."
+  id: 011
+  title: "Viaje hacia la construcción de una plataforma de APIs abiertas"
+  description: "Una plataforma de APIs abiertas establece un nuevo paradigma dentro de una empresa: atrae innovación, permite establecer una visión clara de las necesidad de los cliente, y además, ayuda al posicionamiento tecnológico eliminando las barreras que antes existían.
+    Esta charla comparte la experiencia adquirida desde Amadeus a la hora de lanzar nuestra plataforma de APIs abiertas, Amadeus for Developers, desde su concepción hasta su lanzamiento final, pasando por las fases de implementación, testing y despliegue."
   subtype: presentation
   speakers: [9]
   complexity: "Intermediate"
 
 -
-  id: 011
-  title: "eCommerce & APIs"
-  description: "Cómo se utilizan las APIs en el mundo del ecommerce, integrando herramientas de Marketing,
-  o de Analítica Web y otras herramientas más avanzadas para mejorar tanto el soporte al cliente, la integración entre plataformas y como consecuencia la experiencia de comprar para el usuario."
-  subtype: presentation
-  speakers: [10]
-  complexity: "Intermediate"
+  id: 012
+  title: "Clausura - sorteos"
+  description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
+  subtype: service
 
 -
-  id: 012
-  title: "SegurCaixa: Un ejemplo de APIs en las grandes empresas"
-  description: "Lorem.."
-  subtype: presentation
+  id: 013
+  title: "GraphQL - Taller de AWS App Sync"
+  description: "Taller explicando cómo crear APIs con AWS API Gateway + Lambda + DynamoDB y cómo construir sobre esa base una API GraphQL usando AWS App Sync"
+  subtype: workshop
   speakers: [11]
   complexity: "Intermediate"
 
 -
-  id: 013
-  title: "Gobierno de Apis con IBM"
-  description: "- Introducción al gobierno de Apis. Objetivos. <br>
-                - Definiendo recursos <br>
-                - Políticas de versionado <br>
-                - Seguridad <br>
-                - Estándares de definición e implementación <br>
-                - Documentación <br>
-                - Monitorización <br>
-                - Testing <br>
-                - Billing <br>
-                - Gestión de los entornos"
-  subtype: presentation
+  id: 014
+  title: "Testing HTTP con Karate DSL"
+  description: "Introducción a Karate DSL, un framework para testing de servicios HTTP que combina gran potencia y versatilidad con una curva de aprendizaje súper asequible. 
+        Se dará una serie de  recursos para que al salir de la charla, tengáis una suite de pruebas Karate funcionando en minutos."
+  subtype: workshop
   speakers: [12, 15]
   complexity: "Intermediate"
 
 ## Talleres
 -
-  id: 014
-  title: "Securiza tu REST API en Node.js con JWT"
-  description: "En el taller veremos como crear una sencilla API REST con Node.js y Express y le añadiremos seguridad de tal manera que solo puedan acceder a los endpoints a través de un token"
-  subtype: workshop
-  speakers: [13]
-  complexity: "Intermediate"
+  id: 015
+  title: "Café y pastas"
+  description: ""
+  subtype: service
 
 -
-  id: 015
-  title: "Open API"
-  description: "Lorem ipsummm"
+  id: 016
+  title: "De 0 a 100 con Webmethods"
+  description: "Taller práctico en el que se hará un tour de las funcionalidades que ofrece el producto y de manera práctica se enseñará como configurar diferentes politicas: transformación del mensaje, seguridad, control de throttling, enmascarado de datos, etc."
   subtype: workshop
   speakers: [14]
   complexity: "Intermediate"
 
 -
-  id: 016
-  title: "Desarrolla tu API .net core"
-  description: "ASP.NET Core nos facilita la implementación de API para cualquier plataforma. <br>
-    En esta sesión veremos cómo crear APIs Web soportando distintos formatos y metadatos.
-    También veremos cómo podemos crear aplicaciones SPA con ASP.NET Core como backend."
+  id: 017
+  title: "API Managment sin API Managers"
+  description: "Se explicará como hacer API Management sin necesidad de utilizar API Managers"
   subtype: workshop
   speakers: [18, 19]
   complexity: "Intermediate"
 
 -
-  id: 017
-  title: "Servicios para Node.js en Typescript con APIs autodocumentadas con tsoa"
-  description: "Uno de los mayores problemas que tienen las infraestructuras basadas en microservicios es la documentación de la API (o la falta de ella) de cada uno de los servicios.
-                Escribir un servicio Node.js en Typescript tiene sus particularidades, pero compensa con un código potencialmente mucho más robusto sin perder la elasticidad de JS.<br>
-                En la charla se indicará qué hace falta para tener tu servicio escrito en Typescript usando tsoa para tener tus apis documentadas con swagger y un explorador para interactuar con tus APIs."
-  subtype: workshop
-  speakers: [16]
-  complexity: "Intermediate"
+  id: 018
+  title: "Pausa comida"
+  place: "Vente a comer para reponer fuerzas "
+  service: true
+  description: "El mejor momento para hacer networking con los asistentes y con los ponentes"
 
 -
-  id: 018
-  title: "APIs minimalistas y poderosas con Python Flask Restless"
-  description: "Introduccion a Flask Restless para montar APIs minimalistas, con pocas lineas de codigo y con soporte completo de JSONAPI.<br>
-                Puntos a tocar:<br>
-                - Modelos con Flask SQLAlchemy <br>
-                - Preprocessors y postprocessors <br>
-                - Admin <br>
-                - JSONAPI <br>"
+  id: 019
+  title: "¿Quién dice que en .net no se pueden hacer microservicios?"
+  description: "Introducción a como desplegar nuestras apis/microservicios en contenedores y como gobernarlos. Veremos una introducción a Kubernetes en Azure con AKS, o como desarrollar en local con docker compose o Azure dev space. Cosas tan importantes como el versionado o el enrutamiento no pueden quedar fuera. Y si queda tiempo siempre puede caer alguna sorpresilla!!"
   subtype: workshop
   speakers: [17]
   complexity: "Intermediate"
+-
+  id: 020
+  title: "Taller de definición de APIs"
+  description: "Se explicará como definir tu primera API utilizando Open API y exponerla en un API Manager"
+  subtype: workshop
+  speakers: [17]
+  complexity: "Easy"
+-
+  id: 021
+  title: "Blowing up the Monolith: Practical Advice on Microservices"
+  description: "Many companies are transitioning to microservices but what factors influence whether or not to blow up your monolith? The advantages of moving to a microservices architecture include increased performance, deployability and scalability, but these advantages come at the cost of increased complexity. This presentation will cover the architectural considerations involved in transitioning from a monolithic to a microservices or service-oriented architecture. Take a technical look into the factors to consider during a transition including how to define boundaries between microservices, interservice communication patterns and testing. Learn strategies for transitioning such as the “ice cream scoop,” “lego” and “nuclear” options, routing and versioning strategies, and how to handle libraries and security to maximize service independence.
+While the abstract is in English, I am equally happy to present in Spanish rather than English."
+  subtype: workshop
+  speakers: [17]
+  complexity: "Easy"
