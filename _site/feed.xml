@@ -3,8 +3,8 @@
   <channel>
     <title>API Days Madrid 2017</title>
     <description>Tu evento de APIs con un enfoque 360</description>
-    <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/</link>
-    <atom:link href="https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.apidaysmadrid.es/</link>
+    <atom:link href="https://www.apidaysmadrid.es/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Envía tus fotos</title>
@@ -39,8 +39,8 @@ El álbum lo iremos actualizando periódicamente con las fotos que vayáis manda
 
 </description>
         <pubDate>Wed, 18 Oct 2017 12:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/call-for-photos</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/call-for-photos</guid>
+        <link>https://www.apidaysmadrid.es/blog/call-for-photos</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/call-for-photos</guid>
       </item>
     
       <item>
@@ -105,8 +105,8 @@ Un pequeño gesto como este significa mucho para nosotros como comunidad en proc
 
 </description>
         <pubDate>Tue, 17 Oct 2017 00:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/thank-you</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/thank-you</guid>
+        <link>https://www.apidaysmadrid.es/blog/thank-you</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/thank-you</guid>
       </item>
     
       <item>
@@ -133,8 +133,8 @@ descrubras la cantidad de cosas chulas que se pueden hacer con la API de telegra
 
 </description>
         <pubDate>Wed, 11 Oct 2017 02:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/telegram-channel</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/telegram-channel</guid>
+        <link>https://www.apidaysmadrid.es/blog/telegram-channel</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/telegram-channel</guid>
       </item>
     
       <item>
@@ -174,8 +174,8 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 
 </description>
         <pubDate>Wed, 11 Oct 2017 00:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/take-your-tickets</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/take-your-tickets</guid>
+        <link>https://www.apidaysmadrid.es/blog/take-your-tickets</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/take-your-tickets</guid>
       </item>
     
       <item>
@@ -198,15 +198,15 @@ más información en twitter bajo el hastag &lt;a href=&quot;https://twitter.com
 &lt;p&gt;Deja tus comentarios aquí abajo 👇 o ponte en contacto con nosotros en nuestras redes sociales&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Oct 2017 04:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/workshop-tickets</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/workshop-tickets</guid>
+        <link>https://www.apidaysmadrid.es/blog/workshop-tickets</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/workshop-tickets</guid>
       </item>
     
       <item>
         <title>Entradas vendidas</title>
         <description>&lt;h6 id=&quot;con-ganas-de-que-llegue-el-día-del-evento&quot;&gt;¿Con ganas de que llegue el día del evento?&lt;/h6&gt;
 &lt;p&gt;¡Nosotros estamos impacientes! 🤗 Hemos vendido &lt;strong&gt;+200 entradas&lt;/strong&gt; (a coste cero, sí…) en menos de 2 días.&lt;br /&gt;
-Pronto vamos a poner a la venta las entradas para los &lt;a href=&quot;https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/schedule/&quot;&gt;talleres&lt;/a&gt;. (Durante esta semana publicaremos más info al respecto)
+Pronto vamos a poner a la venta las entradas para los &lt;a href=&quot;https://www.apidaysmadrid.es/schedule/&quot;&gt;talleres&lt;/a&gt;. (Durante esta semana publicaremos más info al respecto)
 Cada taller va a tener una entrada única, aparte de la entrada general que ya tienes.&lt;/p&gt;
 
 &lt;h6 id=&quot;talleres-&quot;&gt;Talleres 💻&lt;/h6&gt;
@@ -229,8 +229,8 @@ podrás ver los videos que hemos subido de nuestras charlas.&lt;/p&gt;
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Oct 2017 11:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/tickets-sold</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/tickets-sold</guid>
+        <link>https://www.apidaysmadrid.es/blog/tickets-sold</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/tickets-sold</guid>
       </item>
     
       <item>
@@ -269,8 +269,8 @@ Tendrá una duración aproximada, de 1 hora y media y habrá plazas limitadas. P
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 21:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/call-for-papers</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/call-for-papers</guid>
+        <link>https://www.apidaysmadrid.es/blog/call-for-papers</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/call-for-papers</guid>
       </item>
     
       <item>
@@ -296,8 +296,8 @@ o formar parte de la comunidad &lt;a href=&quot;https://www.meetup.com/es-ES/Api
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 20:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/hello-world</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.eshttps://www.apidaysmadrid.es/blog/hello-world</guid>
+        <link>https://www.apidaysmadrid.es/blog/hello-world</link>
+        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/hello-world</guid>
       </item>
     
   </channel>
