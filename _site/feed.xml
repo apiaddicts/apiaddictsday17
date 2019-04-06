@@ -3,14 +3,14 @@
   <channel>
     <title>API Days Madrid 2017</title>
     <description>Tu evento de APIs con un enfoque 360</description>
-    <link>https://www.apidaysmadrid.es/</link>
-    <atom:link href="https://www.apidaysmadrid.es/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://apidaysmad.apiaddicts.org/</link>
+    <atom:link href="http://apidaysmad.apiaddicts.org/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Envía tus fotos</title>
         <description>&lt;p&gt;Hola de nuevo. Una vez dadas las gracias, es turno de centrarse en el contenido audiovisual del evento.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.apidaysmadrid.es/img/posts/apidaysmad17.jpg&quot; width=&quot;100%&quot; alt=&quot;Api days madrid 2017&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://apidaysmad.apiaddicts.org/img/posts/apidaysmad17.jpg&quot; width=&quot;100%&quot; alt=&quot;Api days madrid 2017&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Campus Madrid nos ha mandado los &lt;strong&gt;videos&lt;/strong&gt;. Son +10h de contenido, por lo que nos va a llevar un tiempo hacer
 la edición y el montaje de los mismos. En cuanto lo tengamos, lo subiremos a nuestro canal de &lt;a href=&quot;https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos&quot;&gt;youtube&lt;/a&gt;
@@ -22,7 +22,7 @@ controlaba los micrófonos y la cámara, por lo que la charla de Arturo (PSD2) s
 
 &lt;p&gt;Por otra parte, estamos subiendo las fotos a un álbum de &lt;a href=&quot;https://www.flickr.com/photos/baumannq/albums&quot;&gt;flickr&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.apidaysmadrid.es/img/posts/flickr-logo.png&quot; height=&quot;40px&quot; alt=&quot;flickr logo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://apidaysmad.apiaddicts.org/img/posts/flickr-logo.png&quot; height=&quot;40px&quot; alt=&quot;flickr logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Queremos que nos enviéis vuestras fotos. ¿Te animas? 📸 📱 Puedes colaborar enviando tus fotos a &lt;code class=&quot;highlighter-rouge&quot;&gt;jorge.baumann@apiaddicts.org&lt;/code&gt;.
 El álbum lo iremos actualizando periódicamente con las fotos que vayáis mandando. ¡Anímate y sé parte de esto! ¡Mándanos tus fotos!&lt;/p&gt;
@@ -39,8 +39,8 @@ El álbum lo iremos actualizando periódicamente con las fotos que vayáis manda
 
 </description>
         <pubDate>Wed, 18 Oct 2017 12:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/call-for-photos</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/call-for-photos</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/call-for-photos</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/call-for-photos</guid>
       </item>
     
       <item>
@@ -56,7 +56,7 @@ el &lt;strong&gt;API Days Madrid 2017&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;En primer lugar vamos a agradecer a &lt;strong&gt;&lt;a href=&quot;https://cloudappi.net&quot;&gt;Cloudappi&lt;/a&gt;&lt;/strong&gt;, la empresa patrocinadora que está detrás de 
 esta comunidad desde el principio, cuando los meetups se celebraban en &lt;a href=&quot;http://www.la-colegiata.es/&quot;&gt;La colegiata&lt;/a&gt;, una hamburguesería de Getafe. 
-&lt;img src=&quot;https://www.apidaysmadrid.es/img/posts/cloudappi.png&quot; height=&quot;100px&quot; alt=&quot;Cloudappi Logo&quot; /&gt;
+&lt;img src=&quot;http://apidaysmad.apiaddicts.org/img/posts/cloudappi.png&quot; height=&quot;100px&quot; alt=&quot;Cloudappi Logo&quot; /&gt;
 Cloudappi ha proporcionado todo el staff del evento (los de la camiseta roja), las pegatinas, las camisetas, etc.. ¿¡Qué 
 menos que un follow en twitter para agradecérselo!? &lt;a href=&quot;https://twitter.com/cloudappi&quot;&gt;@cloudappi&lt;/a&gt;&lt;/p&gt;
 
@@ -83,7 +83,7 @@ Un pequeño gesto como este significa mucho para nosotros como comunidad en proc
 
 &lt;p&gt;Y por supuesto, ¡a todos vosotros!. Quiero remarcar que esto no hubiera sido posible sin vuestra presencia.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.apidaysmadrid.es/img/posts/thank-you.png&quot; width=&quot;100%&quot; alt=&quot;Thanks&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://apidaysmad.apiaddicts.org/img/posts/thank-you.png&quot; width=&quot;100%&quot; alt=&quot;Thanks&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;muchas-gracias-y-hasta-la-próxima-&quot;&gt;¡¡Muchas gracias, y hasta la próxima!! 👋&lt;/h5&gt;
 
@@ -105,8 +105,8 @@ Un pequeño gesto como este significa mucho para nosotros como comunidad en proc
 
 </description>
         <pubDate>Tue, 17 Oct 2017 00:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/thank-you</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/thank-you</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/thank-you</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/thank-you</guid>
       </item>
     
       <item>
@@ -117,7 +117,7 @@ Para entrar solo necesitas tener una cuenta de &lt;a href=&quot;https://t.me/joi
 Puedes configurar tu alias para que tu número de teléfono &lt;strong&gt;no&lt;/strong&gt; sea visible para el resto de los participantes del grupo.&lt;/p&gt;
 
 &lt;p&gt;Para entrar al canal de telegram, haz click &lt;a href=&quot;https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA&quot;&gt;aquí&lt;/a&gt;.&lt;br /&gt;
-&lt;img src=&quot;https://www.apidaysmadrid.es/img/posts/telegram.png&quot; width=&quot;300px&quot; alt=&quot;API Addicts&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://apidaysmad.apiaddicts.org/img/posts/telegram.png&quot; width=&quot;300px&quot; alt=&quot;API Addicts&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Y por si acaso no lo conocías, te recomendamos que mires &lt;a href=&quot;https://core.telegram.org/api&quot;&gt;https://core.telegram.org/api&lt;/a&gt; para que
 descrubras la cantidad de cosas chulas que se pueden hacer con la API de telegram.&lt;/p&gt;
@@ -133,8 +133,8 @@ descrubras la cantidad de cosas chulas que se pueden hacer con la API de telegra
 
 </description>
         <pubDate>Wed, 11 Oct 2017 02:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/telegram-channel</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/telegram-channel</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/telegram-channel</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/telegram-channel</guid>
       </item>
     
       <item>
@@ -151,7 +151,7 @@ te rogamos que canceles tu entrada para que otra persona la pueda aprovechar.&lt
 &lt;p&gt;Vamos a estar compartiendo lo que pasa bajo el hashtag &lt;a href=&quot;https://twitter.com/search?q=%23apidaysmad17&quot;&gt;#apidaysmad17&lt;/a&gt;. Si 
 quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web oficial del evento!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.apidaysmadrid.es/img/posts/take-your-tickets.png&quot; width=&quot;100%&quot; alt=&quot;API Addicts&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://apidaysmad.apiaddicts.org/img/posts/take-your-tickets.png&quot; width=&quot;100%&quot; alt=&quot;API Addicts&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;enlaces-de-interés&quot;&gt;Enlaces de Interés&lt;/h5&gt;
 &lt;ul&gt;
@@ -174,8 +174,8 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 
 </description>
         <pubDate>Wed, 11 Oct 2017 00:30:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/take-your-tickets</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/take-your-tickets</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/take-your-tickets</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/take-your-tickets</guid>
       </item>
     
       <item>
@@ -198,15 +198,15 @@ más información en twitter bajo el hastag &lt;a href=&quot;https://twitter.com
 &lt;p&gt;Deja tus comentarios aquí abajo 👇 o ponte en contacto con nosotros en nuestras redes sociales&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Oct 2017 04:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/workshop-tickets</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/workshop-tickets</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/workshop-tickets</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/workshop-tickets</guid>
       </item>
     
       <item>
         <title>Entradas vendidas</title>
         <description>&lt;h6 id=&quot;con-ganas-de-que-llegue-el-día-del-evento&quot;&gt;¿Con ganas de que llegue el día del evento?&lt;/h6&gt;
 &lt;p&gt;¡Nosotros estamos impacientes! 🤗 Hemos vendido &lt;strong&gt;+200 entradas&lt;/strong&gt; (a coste cero, sí…) en menos de 2 días.&lt;br /&gt;
-Pronto vamos a poner a la venta las entradas para los &lt;a href=&quot;https://www.apidaysmadrid.es/schedule/&quot;&gt;talleres&lt;/a&gt;. (Durante esta semana publicaremos más info al respecto)
+Pronto vamos a poner a la venta las entradas para los &lt;a href=&quot;http://apidaysmad.apiaddicts.org/schedule/&quot;&gt;talleres&lt;/a&gt;. (Durante esta semana publicaremos más info al respecto)
 Cada taller va a tener una entrada única, aparte de la entrada general que ya tienes.&lt;/p&gt;
 
 &lt;h6 id=&quot;talleres-&quot;&gt;Talleres 💻&lt;/h6&gt;
@@ -229,8 +229,8 @@ podrás ver los videos que hemos subido de nuestras charlas.&lt;/p&gt;
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Oct 2017 11:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/tickets-sold</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/tickets-sold</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/tickets-sold</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/tickets-sold</guid>
       </item>
     
       <item>
@@ -269,8 +269,8 @@ Tendrá una duración aproximada, de 1 hora y media y habrá plazas limitadas. P
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 21:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/call-for-papers</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/call-for-papers</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/call-for-papers</guid>
       </item>
     
       <item>
@@ -283,7 +283,7 @@ Tendrá una duración aproximada, de 1 hora y media y habrá plazas limitadas. P
   &lt;li&gt;&lt;strong&gt;Temáticas&lt;/strong&gt;: +10 horas de charlas y talleres de APIs&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Fecha&lt;/strong&gt;: 11 Octubre 2017, 2 tracks, conferencias y talleres simultáneos. ¡Y alguna sorpresa!&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Dónde&lt;/strong&gt;: Campus Madrid, un espacio de Google. Calle Moreno Nieto, 2 Madrid 28005&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ponentes&lt;/strong&gt;: Ya tenemos casi cerrada la lista de ponentes, ¡Menudo equipo hemos formado! Toda la info &lt;a href=&quot;https://www.apidaysmadrid.es/speakers&quot;&gt;aquí&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ponentes&lt;/strong&gt;: Ya tenemos casi cerrada la lista de ponentes, ¡Menudo equipo hemos formado! Toda la info &lt;a href=&quot;http://apidaysmad.apiaddicts.org/speakers&quot;&gt;aquí&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Podrás encontrar más detalles del evento en futuras publicaciones.
@@ -296,8 +296,8 @@ o formar parte de la comunidad &lt;a href=&quot;https://www.meetup.com/es-ES/Api
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 20:00:00 +0200</pubDate>
-        <link>https://www.apidaysmadrid.es/blog/hello-world</link>
-        <guid isPermaLink="true">https://www.apidaysmadrid.es/blog/hello-world</guid>
+        <link>http://apidaysmad.apiaddicts.org/blog/hello-world</link>
+        <guid isPermaLink="true">http://apidaysmad.apiaddicts.org/blog/hello-world</guid>
       </item>
     
   </channel>

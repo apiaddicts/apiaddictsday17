@@ -1,1 +1,1 @@
-Sitemap: https://www.apidaysmadrid.es/https://www.apidaysmadrid.es/sitemap.xml
+Sitemap: http://apidaysmad.apiaddicts.org/http://apidaysmad.apiaddicts.org/sitemap.xml
