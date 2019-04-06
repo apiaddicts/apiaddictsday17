@@ -127,13 +127,18 @@
   id: 10
   name: "Marta"
   surname: "Arcones"
-  company: ""
-  title: ""
+  company: "Zooplus"
+  title: "software engineer"
   bio: ""
-  thumbnailUrl: MartaArcones.jpeg
+  #thumbnailUrl: MartaArcones.jpeg
   rockstar: true
   social:
   # - {name: "linkedin", link: "https://www.linkedin.com/in/jaimemt"}
+  - {name: "github", link: "https://github.com/arcones"}
+  - {name: "stackoverflow", link: "https://es.stackoverflow.com/users/3654/arcones"}
+
+
+
 
 -
   id: 11
