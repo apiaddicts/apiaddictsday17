@@ -18,15 +18,16 @@
 
 - 
   id: 2
-  name: "Carlos"
-  surname: "Mingo Fernandez"
-  company: "UST Global"
-  title: "Responsable Arquitectura Gobierno de APIs en Segurcaixa Adeslas "
-  bio: ''
-  thumbnailUrl: CarlosMingo.jpeg
+  name: "Jesús"
+  surname: "Cuesta Arza"
+  company: "AT Sistemas"
+  title: "Rompe el monolito, evoluciona tu CMS usándolo como Headless con APIs"
+  bio: 'Apasionado de las nuevas tecnologías, el análisis de tendencias y su predicción, el marketing y las personas. Actualmente trabajo de Líder Técnico para AT Sistemas realizando preventas, definiendo arquitecturas y proyectos, gestionando y desarrollando.
+    Además colaboro en diferentes comunidades como Openexpo, Desarrolladores Cloud, Smart Devices y HackathonLovers.'
+  thumbnailUrl: JesusCuesta.jpeg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/carlosmingof"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jesuscuesta/"}
 
 - 
   id: 3
