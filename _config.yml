@@ -61,8 +61,8 @@ typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
 typeoutFallback: "(Definición)"
 heroButtons:
  #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
- #- {permalink: "/#tickets", text: "Comprar entradas"}
- #- {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Obtener entradas"}
+ - {permalink: "/#tickets", text: "Comprar entradas"}
+ - {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
 aboutTitle: "API Days Madrid"
