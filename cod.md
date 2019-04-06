@@ -15,6 +15,6 @@ tomaremos las medidas necesarias.
 En cualquier caso, si alguien te ha molestado o crees que está molestando a alguien, avísanos y nosotros nos ocuparemos.  
 
 ###### Contacto
-- Jorge Baumann, 658 812 217 [jorge.baumann@apiaddicts.org](mailto:jorge.baumann@apiaddicts.org)
+- Marco Antonio Sanzn, 658 812 217 [jorge.baumann@apiaddicts.org](mailto:jorge.baumann@apiaddicts.org)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

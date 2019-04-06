@@ -13,7 +13,7 @@ Project is built on top of [Jekyll](http://jekyllrb.com/)
 1. Clone the repo
 2. Create a branch from `master`
 3. Update / Fix 
-4. Create a pull request and assign it to me, Jorge Baumann (@baumannzone)
+4. Create a pull request and assign it to me, Marco Antonio Sanzn (@baumannzone)
 
 ## Local development
 
