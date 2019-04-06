@@ -117,7 +117,7 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
 twitterHashTag: "apidaysmad19"
-twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"  
+twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"  
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -174,7 +174,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ ##- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=apiaddicts", icon: "twitter"}
  - {link: "https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos", icon: "youtube"}
  - {link: "https://facebook.com/apiaddicts", icon: "facebook"}
@@ -239,24 +239,24 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
