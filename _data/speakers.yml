@@ -31,16 +31,21 @@
 
 - 
   id: 3
-  name: "David Ramos Lenhoff"
-  surname: "Mauny"
+  name: "David"
+  surname: "Ramos Lehnhoff"
   company: "BBVA"
   title: "Head of Technology of Open Platform (APIs)"
-  bio: "Head of technology of BBVA Open Platform (APIs) Spain and responsible for BBVA API_Market, one of the world leader initiatives in open banking. Additionally, we have been helping both BBVA Bancomer and BBVA Compass with the technical definitions of their open banking initiatives.
-    I've technically led different projects within BBVA as private banking’s “BBVA Asesora” or the download center for internal BBVA mobiles apps. Starting my journey in open banking with BBVA Compass’ Open Platform initiative in 2015.
-    Senior software engineer and passionate about agile methodologies, with wide experience as technical leader of web applications and APIs, mainly for BBVA, but also for Vodafone, Prosegur, BMW, public administration among others.
-    Always worked with continuous delivery and the latest technologies. 
-    I consider myself responsible, methodical, organized, patient and with a high degree of commitment.
-    Some of my personal skills are self-learning, good communicator, teamwork and decision making."
+  bio: "David es el CTO de BBVA API_Market (www.bbvaapimarket.com) una iniciativa líder a nivel
+  mundial en lo que a open banking se refiere. BBVA API_Market es un recurso clave de BBVA a
+  la hora de permitir colaboraciones estratégicas con otras empresas, desde startups hasta
+  grandes corporaciones.
+  La andadura de David en el mundo del open banking comenzó en Estados Unidos en el año
+  2015 de la mano de BBVA Compass y su iniciativa Open Platform.
+  Ingeniero de Software y apasionado de las metodologías Ágiles con experiencia como líder
+  técnico de aplicaciones web y APIs para diferentes sectores como banca (BBVA),
+  telecomunicaciones (Vodafone), seguridad (Prosegur), automoción (BMW), administración
+  pública entre otros.
+  Uno de sus hobbies preferidos debido en parte a sus raíces germanas es el hockey sobre hielo."
   thumbnailUrl: DavidRamos.jpeg
   rockstar: true
   social:
