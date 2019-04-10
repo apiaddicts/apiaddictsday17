@@ -82,11 +82,7 @@
   surname: "Rocha"
   company: "Sensedia"
   title: "Lead Solutions Architect"
-  bio: "Rafael Rocha is a Senior Solutions Architect at Sensedia, he has a technologist degree in Information Technology from UNESP and a postgraduate degree in MBA Business Management from UNIMEP. 
-       Working with development based on Java and Microsoft platforms since 2001, has worked in several environments and lines of business for national and global companies, such as Goodyear, DPaschoal, Maritima, Oi, Petrobras, TV Globo, Porto Seguro, DivX, Magazine Luiza, Vivo, Telefónica, Natura and more recently Walmart.com. 
-      Nowadays, he have been worked in the web based projects in the following stack: Angular.JS, Backbone.JS, Node.JS, Spring MVC and Hibernate. Also, he have been worked in projects based on Microservices Architecture delivering APIs components on the following stack: RESTEasy, Spring Framework, Redis and Hibernate.
-      He is an Oracle SOA platform certified and has good experience in SOA projects.
-      Specialties: Java programming, architecture definition, scrum agile development, performance tunning, leadership, software sales, SOA and BPM implementarion, SOA Governance, value engineering and Canonical Data Model Definition"
+  bio: "Rafael Rocha es un experto en arquitectura y desarrollo de software con más de 18 años de experiencia. Hoy actúa como Lead Solutions Architect en Sensedia ayudando a las empresas a convertirse en Digital a través del uso de tecnologías de API y la implementación de arquitecturas robustas basadas en microservicios y cloud."
   thumbnailUrl: RafaelRocha.jpeg
   rockstar: true
   social:
