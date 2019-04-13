@@ -54,7 +54,7 @@
   id: 4
   name: "Víctor"
   surname: "Cuervo"
-  company: "Guide Smiths"
+  company: "SegurCaixa Adeslas"
   title: "Head of Architecture"
   bio: "I am a technology lover. I like learning about technology, to be daily updated, see how to apply them to a professional environment and teach this knowledge to people. Seeking complement the technical part with social and team management. Looking having high performance teams, competent and with a constant self-training. Mix of technical knowledge and a good team is essential to meet any challenge.
     In the last 12 years I have been leading technical teams of different skills, in international and large projects. Always in the world of technology, software engineering and innovation. My career focuses on five points: software architecture, software engineering, methodologies, quality assurance and transformation projects.
@@ -201,15 +201,3 @@
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
     -
-
-- 
-  id: 15
-  name: "Marco "
-  surname: "Márquez"
-  company: "Kong Inc"
-  title: "Kong Solutions Architect and MBA Graduate from WU"
-  bio: ""
-  thumbnailUrl: MarcoMarquez.jpeg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marcoamarquez/"}

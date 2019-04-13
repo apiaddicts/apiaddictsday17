@@ -155,11 +155,4 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   subtype: workshop
   speakers: [14]
   complexity: "Easy"
--
-  id: 021
-  title: "Blowing up the Monolith: Practical Advice on Microservices"
-  description: "Many companies are transitioning to microservices but what factors influence whether or not to blow up your monolith? The advantages of moving to a microservices architecture include increased performance, deployability and scalability, but these advantages come at the cost of increased complexity. This presentation will cover the architectural considerations involved in transitioning from a monolithic to a microservices or service-oriented architecture. Take a technical look into the factors to consider during a transition including how to define boundaries between microservices, interservice communication patterns and testing. Learn strategies for transitioning such as the “ice cream scoop,” “lego” and “nuclear” options, routing and versioning strategies, and how to handle libraries and security to maximize service independence.
-While the abstract is in English, I am equally happy to present in Spanish rather than English."
-  subtype: workshop
-  speakers: [15]
-  complexity: "Easy"
+
