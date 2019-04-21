@@ -143,16 +143,16 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
 
 -
   id: 019
-  title: "¿Quién dice que en .net no se pueden hacer microservicios?"
-  description: "Introducción a como desplegar nuestras apis/microservicios en contenedores y como gobernarlos. Veremos una introducción a Kubernetes en Azure con AKS, o como desarrollar en local con docker compose o Azure dev space. Cosas tan importantes como el versionado o el enrutamiento no pueden quedar fuera. Y si queda tiempo siempre puede caer alguna sorpresilla!!"
+  title: "¿Quién dice que Java había muerto? Aprende a desarrollar microservicios en spring boot"
+  description: "Se desarrollará un microservicio en Spring boot que exponga una API Rest, utilizándo docker para ejecutarlo"
   subtype: workshop
   speakers: [13]
   complexity: "Intermediate"
 -
   id: 020
-  title: "Taller de definición de APIs"
-  description: "Se explicará como definir tu primera API utilizando Open API y exponerla en un API Manager"
+  title: "Taller de definición y testing de APIs"
+  description: "Se explicará como definir tu primera API utilizando Open API y exponerla en un API Manager y como testearla con lo que empieza a ser el nuevo estándar: postman + newman"
   subtype: workshop
-  speakers: [14]
+  speakers: [14,15]
   complexity: "Easy"
 
