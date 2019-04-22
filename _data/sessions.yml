@@ -18,11 +18,12 @@
   complexity: "Intermediate"
 -
   id: 003
-  title: "API Managment sin API Managers"
-  description: "Se explicará como hacer API Management sin necesidad de utilizar API Managers"
-  subtype: workshop
-  speakers: [12]
+  title: "Rompe el monolito, evoluciona tu CMS usándolo como Headless con APIs"
+  description: "Los CMS han caído en el proceso de transformación digital y cambios de arquitecturas. Como una guillotina se está dividiendo el gestor de contenidos de la parte frontend. Ahora será más escalable, con mejor soporte y más veloz. Pero para poder conseguirlo, necesitaremos de nuestras amigas las APIs para poder pasar la información entre dichas capas. Pero, ¿qué contenido debemos incluir en dichas APIs? ¿en cada CMS se debemos tener en cuenta diferentes características?"
+  subtype: presentation
+  speakers: [2]
   complexity: "Intermediate"
+
 
 -
   id: 004
@@ -44,14 +45,7 @@
   speakers: [4]
   complexity: "Intermediate"
 
--
-  id: 007
-  title: "Observabilidad absoluta tus microservicios cómo si fueras el ojo de Sauron"
-  description: "Poder visualizar y monitorizar nuestro sistema como si fuese una caja blanca es fundamental. Mediante una monitorización de caja negra únicamente podremos saber si en determinadas circunstancias nuestra aplicación responde correctamente, pero no tendremos la foto global de lo que le sucede a todos los usuarios y tampoco podremos saber dónde exactamente pueden estar ocurriendo los errores.
-Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones para tener absoluta observabilidad. Veremos cómo desplegar las aplicaciones en Istio y implementar el patrón RED definido en el SRE Handbook de Google (Requests, Errors, Delays) sin hacer nada en nuestra aplicación."
-  subtype: presentation
-  speakers: [5]
-  complexity: "Intermediate"
+
 
 -
   id: 008
@@ -60,7 +54,7 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   service: true
   description: "El mejor momento para hacer networking con los asistentes y con los ponentes"
 
--
+-z
   id: 009
   title: "GraphQL, gRPC o REST - ¿Quién gana ese partido?"
   description: "El objetivo de esta conferencia es presentar la evolución de estos modelos, características, ventajas y desventajas, compartiendo experiencias de casos reales de Sensedia en proyectos de sus clientes como Natura, Elo credit card, Edenred, entre otras."
@@ -93,6 +87,9 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
   subtype: service
 
+
+
+## Talleres
 -
   id: 013
   title: "GraphQL - Taller de AWS App Sync"
@@ -109,8 +106,6 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   subtype: workshop
   speakers: [10]
   complexity: "Intermediate"
-
-## Talleres
 -
   id: 015
   title: "Café y pastas"
@@ -124,16 +119,14 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
   subtype: workshop
   speakers: [11]
   complexity: "Intermediate"
-
 -
   id: 017
-  title: "Rompe el monolito, evoluciona tu CMS usándolo como Headless con APIs"
-  description: "Los CMS han caído en el proceso de transformación digital y cambios de arquitecturas. Como una guillotina se está dividiendo el gestor de contenidos de la parte frontend. Ahora será más escalable, con mejor soporte y más veloz. Pero para poder conseguirlo, necesitaremos de nuestras amigas las APIs para poder pasar la información entre dichas capas. Pero, ¿qué contenido debemos incluir en dichas APIs? ¿en cada CMS se debemos tener en cuenta diferentes características?"
+  title: "Observabilidad absoluta tus microservicios cómo si fueras el ojo de Sauron"
+  description: "Poder visualizar y monitorizar nuestro sistema como si fuese una caja blanca es fundamental. Mediante una monitorización de caja negra únicamente podremos saber si en determinadas circunstancias nuestra aplicación responde correctamente, pero no tendremos la foto global de lo que le sucede a todos los usuarios y tampoco podremos saber dónde exactamente pueden estar ocurriendo los errores.
+Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones para tener absoluta observabilidad. Veremos cómo desplegar las aplicaciones en Istio y implementar el patrón RED definido en el SRE Handbook de Google (Requests, Errors, Delays) sin hacer nada en nuestra aplicación."
   subtype: presentation
-  speakers: [2]
+  speakers: [5]
   complexity: "Intermediate"
-
-
 
 -
   id: 018
