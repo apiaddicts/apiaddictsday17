@@ -8,7 +8,6 @@
   title: "Registro y Entrada"
   description: "No llegues tarde si no te quieres perder nada"
   service: true
-
 -
   id: 002
   title: "The AsyncAPI specification"
@@ -23,8 +22,6 @@
   subtype: presentation
   speakers: [2]
   complexity: "Intermediate"
-
-
 -
   id: 004
   title: "Open Banking: la experiencia de BBVA"
@@ -44,25 +41,19 @@
   subtype: presentation
   speakers: [4]
   complexity: "Intermediate"
-
-
-
 -
   id: 008
   title: "Pausa comida"
   place: "Vente a comer para reponer fuerzas "
   service: true
   description: "El mejor momento para hacer networking con los asistentes y con los ponentes"
-
--z
+-
   id: 009
   title: "GraphQL, gRPC o REST - ¿Quién gana ese partido?"
   description: "El objetivo de esta conferencia es presentar la evolución de estos modelos, características, ventajas y desventajas, compartiendo experiencias de casos reales de Sensedia en proyectos de sus clientes como Natura, Elo credit card, Edenred, entre otras."
   subtype: presentation
   speakers: [6]
   complexity: "Intermediate"
-
-
 -
   id: 010
   title: "Lecciones aprendidas de la construcción de un API Gateware: que ganas y que pierdes en el camino"
