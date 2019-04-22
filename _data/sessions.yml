@@ -16,13 +16,12 @@
   subtype: presentation
   speakers: [1]
   complexity: "Intermediate"
-
 -
   id: 003
-  title: "Rompe el monolito, evoluciona tu CMS usándolo como Headless con APIs"
-  description: "Los CMS han caído en el proceso de transformación digital y cambios de arquitecturas. Como una guillotina se está dividiendo el gestor de contenidos de la parte frontend. Ahora será más escalable, con mejor soporte y más veloz. Pero para poder conseguirlo, necesitaremos de nuestras amigas las APIs para poder pasar la información entre dichas capas. Pero, ¿qué contenido debemos incluir en dichas APIs? ¿en cada CMS se debemos tener en cuenta diferentes características?"
-  subtype: presentation
-  speakers: [2]
+  title: "API Managment sin API Managers"
+  description: "Se explicará como hacer API Management sin necesidad de utilizar API Managers"
+  subtype: workshop
+  speakers: [12]
   complexity: "Intermediate"
 
 -
@@ -128,11 +127,13 @@ Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones par
 
 -
   id: 017
-  title: "API Managment sin API Managers"
-  description: "Se explicará como hacer API Management sin necesidad de utilizar API Managers"
-  subtype: workshop
-  speakers: [12]
+  title: "Rompe el monolito, evoluciona tu CMS usándolo como Headless con APIs"
+  description: "Los CMS han caído en el proceso de transformación digital y cambios de arquitecturas. Como una guillotina se está dividiendo el gestor de contenidos de la parte frontend. Ahora será más escalable, con mejor soporte y más veloz. Pero para poder conseguirlo, necesitaremos de nuestras amigas las APIs para poder pasar la información entre dichas capas. Pero, ¿qué contenido debemos incluir en dichas APIs? ¿en cada CMS se debemos tener en cuenta diferentes características?"
+  subtype: presentation
+  speakers: [2]
   complexity: "Intermediate"
+
+
 
 -
   id: 018
