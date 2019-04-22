@@ -6,7 +6,7 @@
 - 
   group: "Silver Partners"
   elements: 
-    - {name: "Amadeus for developers", description: "Amadeus for Developers es un programa de innovación abierta que se ocupa de impulsar la conexión entre el ecosistema de innovación y Amadeus, con objeto de favorecer los procesos de co-creación, fomentar la colaboración con otros sectores y acelerar el desarrollo de nuevas ideas de negocio.", link: "https://developers.amadeus.com/", imageUrl: "amadeusForDevelopers.png"}
+    - {name: "Amadeus for developers", description: "Amadeus for Developers es un programa de innovación abierta que se ocupa de impulsar la conexión entre el ecosistema de innovación y Amadeus, con objeto de favorecer los procesos de co-creación, fomentar la colaboración con otros sectores y acelerar el desarrollo de nuevas ideas de negocio.", link: "https://developers.amadeus.com/", imageUrl: "amadeusForDevelopers.png",width: "640px"}
     #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 - 
   group: "Bronze Partners"
