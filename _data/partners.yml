@@ -12,7 +12,7 @@
   group: "Bronze Partners"
   elements: 
     - {name: "Finect", description: "La red inteligente para gestionar bien tu dinero.", link: "https://www.finect.com/", imageUrl: "finect.jpg"}
-    - {name: "StackOverflow_es", description: "Sitio de preguntas y respuestas para programadores y profesionales de la informática en Español", link: "https://es.stackoverflow.com/", imageUrl: "stackoverflow_es.png"}
+    - {name: "StackOverflow_es", description: "Stack Overflow en español es un sitio de preguntas y respuestas para programadores y entusiastas del desarrollo y uso de software. Lo construyes y lo administras tú como parte de la red de sitios de preguntas y respuestas de Stack Exchange. Con tu ayuda, trabajamos juntos para crear una biblioteca de respuestas detalladas para todas las preguntas sobre programación, desarrollo y uso de software.", link: "https://es.stackoverflow.com/", imageUrl: "stackoverflow_es.png"}
 #-
 #  group: "With support of"
 #  elements:
