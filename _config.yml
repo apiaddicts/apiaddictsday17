@@ -8,15 +8,15 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "API Days Madrid 2019"
+title: "API Addicts Day 2020"
 email: "contacta@apiaddicts.org"
-description: "Tu evento de APIs con un enfoque 360"
+description: "El evento de APIs en Español más importante del mundo"
 #baseurl: "/apidaysmad"
-baseurl: "https://apidaysmad.apiaddicts.org"
-url: "https://apidaysmad.apiaddicts.org"
+baseurl: "https://apiaddictsday.apiaddicts.org"
+url: "https://apiaddictsday.apiaddicts.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-63062484-5"
-googleAnalyticsSiteUrl: "www.apidaysmadrid.es"
+googleAnalyticsTrackingId: "UA-63062484-12"
+googleAnalyticsSiteUrl: "apiaddictsday.apiaddicts.org"
 siteVerification: "8syDqXyPBXLeDN4OObptLtn2xyRCTBo-W9lLWhkoW_A"
 
 # Organizer Info
@@ -25,7 +25,7 @@ organizerAlternateName: "API Addicts"
 organizerDescription: "Comunidad abierta en la que tratamos con pasión todos los aspectos de una API con un enfoque 360º"
 organizerEmail: "contacta@apiaddicts.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www.apiaddicts.org/"
+organizerLink: "https://www.apiaddicts.org/"
 
 # Head
 metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, .NET, meetup, developers, Madrid"
@@ -97,12 +97,12 @@ eventAddressLocality: "Madrid"
 eventAddressLocalityRegion: "Madrid"
 eventPostalCode: "28005"
 eventAddressCountry: "España"
-eventStartTime: "2019-04-26T09:15"
-eventDoorTime: "09:00"
-eventEndTime: "2019-04-26T15:45"
-eventPlaceCoordinates: "40.4125986, -3.7182459000000563"
-mapCenterCoordinates: "40.4125986, -3.7182459000000563"
-mapMobileCenterCoordinates: "40.4125986, -3.7182459000000563"
+eventStartTime: "2020-06-23T12:00"
+eventDoorTime: "10:00"
+eventEndTime: "2020-06-23T20:00"
+eventPlaceCoordinates: "40.3194127,-3.7010149"
+mapCenterCoordinates: "40.3194127,-3.7010149"
+mapMobileCenterCoordinates: "40.3194127,-3.7010149"
 
 # Venue Block
 venueBlockTitle: "Dónde"
@@ -116,8 +116,8 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "apidaysmad19"
-twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"  
+twitterHashTag: "apiaddictsday2020"
+twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsday2020"  
 
 # Partners Block
 organizersTitle: "Organizadores"
